@@ -1,14 +1,14 @@
 # GameMechanic
 整理一些关于GameMechanic相关话题的资料与随笔。
 
-##书籍:
-游戏机制:高级游戏设计技术
-https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6
+## 书籍:
+### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
+  * 书中对游戏机制进行了分类: 物理，渐进，战术机动，经济，社交。
+  * 描述了系统复杂性与游戏可玩性的关系。
+  * 通过实例构建经济系统。
+  * 描述了正反馈与负反馈的作用。
 
-书中对游戏机制进行了描述，分类。是一本不错的入门书籍。
 
-当设计一个游戏，无从下手的时候，非常需要一些原理性的指导意见，而游戏机制正是提供这种原理性的信息，
-
-可以帮助你从一个更高的层面来设计和调整游戏的可玩性，目的性，平衡性。
-
-我正在尝试使用这些指导意见来构建我的第一个实验性的游戏。
+### The Art Of Game Design
+### Rules Of Play Game Design Fundamentals
+### The Art Of Game Design
