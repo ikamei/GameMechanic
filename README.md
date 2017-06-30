@@ -22,3 +22,5 @@
 
 ## 有趣的游戏
 ### [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
+### [Dungeons of Tal'Doria](https://sunex-games.itch.io/dungeons-of-taldoria)
+### [frail shells](https://fromsmiling.itch.io/frail-shells)
