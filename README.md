@@ -20,8 +20,18 @@
   * 描述了作者做纸面原型时的历程及思考。
 
 
-## 有趣的游戏
-### [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
-### [Dungeons of Tal'Doria](https://sunex-games.itch.io/dungeons-of-taldoria)
-### [frail shells](https://fromsmiling.itch.io/frail-shells)
-### [The Adventurer and His Backpack](http://store.steampowered.com/app/635410/The_Adventurer_and_His_Backpack/)
+## 有趣的游戏列表
+### 街机
+  * [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
+### FPS
+  * [frail shells](https://fromsmiling.itch.io/frail-shells)
+### 生存
+  * [Dont Bite Me Bro](https://muifwego.itch.io/dont-bite-me-bro)
+  * [Colony Survival](http://store.steampowered.com/app/366090/Colony_Survival/)
+### 冒险
+  * [The Adventurer and His Backpack](http://store.steampowered.com/app/635410/The_Adventurer_and_His_Backpack/)
+  * [The Labyrinth](http://store.steampowered.com/app/652050/The_Labyrinth/)
+  * [Voodoo](http://store.steampowered.com/app/467570/Voodoo/)
+
+## 对比分析的游戏
+  * [Dont Bite Me Bro](https://muifwego.itch.io/dont-bite-me-bro)和[Voodoo](http://store.steampowered.com/app/467570/Voodoo/)
