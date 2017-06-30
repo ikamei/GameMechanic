@@ -18,3 +18,7 @@
   * 这两篇文章强调了游戏立项前的工作的重要性。
 ### [《幽灵玩具屋》(上) - 从纸面原型开始](https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop), [《幽灵玩具屋》(下) -深度解构系统设计](https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop)
   * 描述了作者做纸面原型时的历程及思考。
+
+
+## 有趣的游戏
+### [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
