@@ -32,6 +32,12 @@
   * [The Adventurer and His Backpack](http://store.steampowered.com/app/635410/The_Adventurer_and_His_Backpack/)
   * [The Labyrinth](http://store.steampowered.com/app/652050/The_Labyrinth/)
   * [Voodoo](http://store.steampowered.com/app/467570/Voodoo/)
+  * [smoothie-galaxy](https://pixel-boy.itch.io/smoothie-galaxy)
+  * [wayfarer](https://ikroth.itch.io/wayfarer)
+  * [a-growing-adventure](https://frankiesmileshow.itch.io/a-growing-adventure)
+  * [fight-knight-ks](https://boen.itch.io/fight-knight-ks)
+  * [dungeons-and-treasure(FPV)](https://dungeons-and-treasure.itch.io/dungeons-and-treasure)
 
-## 对比分析的游戏
+## 有趣的比较
   * [Dont Bite Me Bro](https://muifwego.itch.io/dont-bite-me-bro)和[Voodoo](http://store.steampowered.com/app/467570/Voodoo/)
+  * [wayfarer](https://ikroth.itch.io/wayfarer)和[smoothie-galaxy](https://pixel-boy.itch.io/smoothie-galaxy)
