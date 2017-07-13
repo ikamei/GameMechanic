@@ -40,6 +40,7 @@
   * [PION](http://store.steampowered.com/app/667550/PION/)
   * [Assault_Android_Cactus](http://store.steampowered.com/app/250110/Assault_Android_Cactus/)
 
-## 有趣的比较
-  * [Dont Bite Me Bro](https://muifwego.itch.io/dont-bite-me-bro)和[Voodoo](http://store.steampowered.com/app/467570/Voodoo/)
-  * [wayfarer](https://ikroth.itch.io/wayfarer)和[smoothie-galaxy](https://pixel-boy.itch.io/smoothie-galaxy)
+## 这里还有些博客
+  * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
+  * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
+  * [每一个独立游戏开发团队都有一个故事（下）](https://indienova.com/u/yuchting/blogread/3102)
