@@ -8,7 +8,6 @@
   * 通过实例构建经济系统。
   * 描述了正反馈与负反馈的作用。
 
-
 ### The Art Of Game Design
 ### Rules Of Play Game Design Fundamentals
 ### [游戏设计梦工厂](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&ie=UTF8&qid=1498791824&sr=1-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82)
@@ -18,7 +17,11 @@
   * 这两篇文章强调了游戏立项前的工作的重要性。
 ### [《幽灵玩具屋》(上) - 从纸面原型开始](https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop), [《幽灵玩具屋》(下) -深度解构系统设计](https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop)
   * 描述了作者做纸面原型时的历程及思考。
-
+### [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
+### [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
+### [每一个独立游戏开发团队都有一个故事（下）](https://indienova.com/u/yuchting/blogread/3102)
+### [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
+### [一个本该失败的游戏：Bioshock](https://zhuanlan.zhihu.com/p/27728799)
 
 ## 有趣的游戏列表
 ### 街机
@@ -40,8 +43,4 @@
   * [PION](http://store.steampowered.com/app/667550/PION/)
   * [Assault_Android_Cactus](http://store.steampowered.com/app/250110/Assault_Android_Cactus/)
 
-## 这里还有些博客
-  * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
-  * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
-  * [每一个独立游戏开发团队都有一个故事（下）](https://indienova.com/u/yuchting/blogread/3102)
-  * [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
+
