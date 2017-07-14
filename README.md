@@ -22,6 +22,7 @@
 ### [每一个独立游戏开发团队都有一个故事（下）](https://indienova.com/u/yuchting/blogread/3102)
 ### [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
 ### [一个本该失败的游戏：Bioshock](https://zhuanlan.zhihu.com/p/27728799)
+### [独立游戏开发者该如何给游戏定价？](http://mgame.sohu.com/20160125/n435747556.shtml)
 
 ## 有趣的游戏列表
 ### 街机
