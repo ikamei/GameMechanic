@@ -20,6 +20,7 @@
     * 描述了作者做纸面原型时的历程及思考。
   * roguelikes 
     * [the key design elements of roguelikes](https://gamedevelopment.tutsplus.com/articles/the-key-design-elements-of-roguelikes--cms-23510)
+      * 提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下
 ### 开发日志
   * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
