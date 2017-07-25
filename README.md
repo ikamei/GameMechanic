@@ -7,13 +7,12 @@
   * 描述了系统复杂性与游戏可玩性的关系。
   * 通过实例构建经济系统。
   * 描述了正反馈与负反馈的作用。
-
 ### [The Art Of Game Design](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01ELZ472Q/ref=sr_1_1?ie=UTF8&qid=1500947428&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF)
 ### Rules Of Play Game Design Fundamentals
 ### [游戏设计梦工厂](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&ie=UTF8&qid=1498791824&sr=1-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82)
   ＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。
 ### [游戏设计要则探秘](https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&qid=1500947403&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98)
-  * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候很好用。
+  * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候是可以使用的方法。
 
 ## 文章&谈话
 ### Game Design
@@ -24,6 +23,10 @@
   * roguelikes 
     * [the key design elements of roguelikes](https://gamedevelopment.tutsplus.com/articles/the-key-design-elements-of-roguelikes--cms-23510)
       * 提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下
+    * [How to Write a Roguelike in 15 Steps](http://www.roguebasin.com/index.php?title=How_to_Write_a_Roguelike_in_15_Steps)
+  * [Player motivation, part 1: Biological foundation of emotions](http://www.gamasutra.com/blogs/AndriiGoncharuk/20170721/302218/Player_motivation_part_1_Biological_foundation_of_emotions.php)
+    * Arginine, Asparagine, Glutamine, Adrenaline, Glycine, D-serine, Acetylcholine, Dopamine, Norepinephrine, Epinephrine, Serotonin, Histamine, Phenethylamine, N-methylphenethylamine, Tyramine, Vasoactive intestinal peptide, Growth hormone, Somatostatin, Neurokinin A, Neurokinin B, Substance P, Neuropeptide K, Adrenocorticotropic hormone, N-Acetylaspartylglutamate, Cocaine, Bombesin, Gastrin releasing peptide, Kisspeptin, Nitric oxide, Cortisol, Octopamine, Synephrine, Tryptamine, N-methyltryptamine, Anandamide, 2-Arachidonoylglycerol, 2-Arachidonyl glyceryl, N-Arachidonoyl dopamine, Virodhamine, Adenosine, Adenosine triphosphate, Galanin, Galanin-like peptide, Gastrin, Vasopressin, Oxytocin, Neurophysin I, Neurophysin II, Neuropeptide Y, Pancreatic polypeptide, Peptide YY, Enkephalin, Dynorphin, Endorphin, Endomorphin, Orexin A, Orexin B, Secretin, Motilin, Glucagon
+  * [Mechanical Foreshadowing](http://www.gamasutra.com/blogs/NikhilMurthy/20170719/301979/Mechanical_Foreshadowing.php)
 ### 开发日志
   * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
@@ -32,7 +35,19 @@
 ### marketing
   * [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
   * [独立游戏开发者该如何给游戏定价？](http://mgame.sohu.com/20160125/n435747556.shtml)
-
+  * [Stores vs. Developers vs. Customers vs. Publishers](http://www.gamasutra.com/blogs/LarsDoucet/20170719/301976/Stores_vs_Developers_vs_Customers_vs_Publishers.php)
+    * GOG, itch, steam ...
+  * [Missing the Mark: The Importance of Market Fit](http://www.gamasutra.com/blogs/ErikJohnson/20170718/301540/Missing_the_Mark_The_Importance_of_Market_Fit.php)
+    * 使用steam spy 分析最佳销售.
+  * [What Makes an Indie Hit?: How to Choose the Right Design](http://www.gamasutra.com/blogs/RyanClark/20150917/253842/What_Makes_an_Indie_Hit_How_to_Choose_the_Right_Design.php)
+    * 使用steam spy和https://steamdb.info/ 来做市场分析.
+  * [Protect your Steam Keys](http://www.gamasutra.com/blogs/DrMatthewWhite/20170718/301866/Protect_your_Steam_Keys.php)
+  * [Fraud in the Gaming Industry](http://www.gamasutra.com/blogs/JenniferMendez/20170714/301753/Fraud_in_the_Gaming_Industry.php)
+### 算法
+  * [Generating tile map](https://gamedev.stackexchange.com/questions/79049/generating-tile-map)
+  * [How does one get started with procedural generation?](https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation)
+  * [How to Use Perlin Noise in Your Games](http://devmag.org.za/2009/04/25/perlin-noise/)
+  * [Generate Random Cave Levels Using Cellular Automata](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)
 ## 有趣的游戏列表
 ### 街机
   * [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
