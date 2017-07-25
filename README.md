@@ -8,9 +8,12 @@
   * 通过实例构建经济系统。
   * 描述了正反馈与负反馈的作用。
 
-### The Art Of Game Design
+### [The Art Of Game Design](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01ELZ472Q/ref=sr_1_1?ie=UTF8&qid=1500947428&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF)
 ### Rules Of Play Game Design Fundamentals
 ### [游戏设计梦工厂](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&ie=UTF8&qid=1498791824&sr=1-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82)
+  ＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。
+### [游戏设计要则探秘](https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&qid=1500947403&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98)
+  * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候很好用。
 
 ## 文章&谈话
 ### Game Design
