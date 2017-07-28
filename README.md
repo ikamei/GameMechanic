@@ -22,11 +22,14 @@
     * 描述了作者做纸面原型时的历程及思考。
   * roguelikes 
     * [the key design elements of roguelikes](https://gamedevelopment.tutsplus.com/articles/the-key-design-elements-of-roguelikes--cms-23510)
-      * 提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下
+      * 提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下.
     * [How to Write a Roguelike in 15 Steps](http://www.roguebasin.com/index.php?title=How_to_Write_a_Roguelike_in_15_Steps)
   * [Player motivation, part 1: Biological foundation of emotions](http://www.gamasutra.com/blogs/AndriiGoncharuk/20170721/302218/Player_motivation_part_1_Biological_foundation_of_emotions.php)
     * Arginine, Asparagine, Glutamine, Adrenaline, Glycine, D-serine, Acetylcholine, Dopamine, Norepinephrine, Epinephrine, Serotonin, Histamine, Phenethylamine, N-methylphenethylamine, Tyramine, Vasoactive intestinal peptide, Growth hormone, Somatostatin, Neurokinin A, Neurokinin B, Substance P, Neuropeptide K, Adrenocorticotropic hormone, N-Acetylaspartylglutamate, Cocaine, Bombesin, Gastrin releasing peptide, Kisspeptin, Nitric oxide, Cortisol, Octopamine, Synephrine, Tryptamine, N-methyltryptamine, Anandamide, 2-Arachidonoylglycerol, 2-Arachidonyl glyceryl, N-Arachidonoyl dopamine, Virodhamine, Adenosine, Adenosine triphosphate, Galanin, Galanin-like peptide, Gastrin, Vasopressin, Oxytocin, Neurophysin I, Neurophysin II, Neuropeptide Y, Pancreatic polypeptide, Peptide YY, Enkephalin, Dynorphin, Endorphin, Endomorphin, Orexin A, Orexin B, Secretin, Motilin, Glucagon
   * [Mechanical Foreshadowing](http://www.gamasutra.com/blogs/NikhilMurthy/20170719/301979/Mechanical_Foreshadowing.php)
+    * 在设计时，分析了伏笔的优缺点.
+  * [Median playtime on Steam](https://galyonk.in/median-playtime-on-steam-8a3d67fda84d)
+    * 分析了中数游戏时长与价格等因素的关系.
 ### 开发日志
   * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
@@ -43,6 +46,11 @@
     * 使用steam spy和https://steamdb.info/ 来做市场分析.
   * [Protect your Steam Keys](http://www.gamasutra.com/blogs/DrMatthewWhite/20170718/301866/Protect_your_Steam_Keys.php)
   * [Fraud in the Gaming Industry](http://www.gamasutra.com/blogs/JenniferMendez/20170714/301753/Fraud_in_the_Gaming_Industry.php)
+  * [How many games could be eligible for Steam refunds?](https://galyonk.in/how-many-games-are-eligible-for-steam-refunds-7a4f3ea74c19)
+    * 分析了退款与游戏时长的关系.
+  * [On Early Access games](https://galyonk.in/on-early-access-games-39aed2b8f82d)
+    * 分析了Early Access游戏的一些特点，如果EA效果不好，会有大约四分之一的EA游戏坚持到退出，这个周期平均是14个月，而之后，平均销售是8000拷贝(14个月) / 3600拷贝(发布第一个月); youtube的覆盖率对第一个月的销售影响最大.
+
 ### 算法
   * [Generating tile map](https://gamedev.stackexchange.com/questions/79049/generating-tile-map)
   * [How does one get started with procedural generation?](https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation)
