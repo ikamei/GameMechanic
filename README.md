@@ -27,9 +27,11 @@
   * [Player motivation, part 1: Biological foundation of emotions](http://www.gamasutra.com/blogs/AndriiGoncharuk/20170721/302218/Player_motivation_part_1_Biological_foundation_of_emotions.php)
     * Arginine, Asparagine, Glutamine, Adrenaline, Glycine, D-serine, Acetylcholine, Dopamine, Norepinephrine, Epinephrine, Serotonin, Histamine, Phenethylamine, N-methylphenethylamine, Tyramine, Vasoactive intestinal peptide, Growth hormone, Somatostatin, Neurokinin A, Neurokinin B, Substance P, Neuropeptide K, Adrenocorticotropic hormone, N-Acetylaspartylglutamate, Cocaine, Bombesin, Gastrin releasing peptide, Kisspeptin, Nitric oxide, Cortisol, Octopamine, Synephrine, Tryptamine, N-methyltryptamine, Anandamide, 2-Arachidonoylglycerol, 2-Arachidonyl glyceryl, N-Arachidonoyl dopamine, Virodhamine, Adenosine, Adenosine triphosphate, Galanin, Galanin-like peptide, Gastrin, Vasopressin, Oxytocin, Neurophysin I, Neurophysin II, Neuropeptide Y, Pancreatic polypeptide, Peptide YY, Enkephalin, Dynorphin, Endorphin, Endomorphin, Orexin A, Orexin B, Secretin, Motilin, Glucagon
   * [Mechanical Foreshadowing](http://www.gamasutra.com/blogs/NikhilMurthy/20170719/301979/Mechanical_Foreshadowing.php)
-    * 在设计时，分析了伏笔的优缺点.
+    * 分析了用伏笔的形式来解锁技能，物品等的优缺点。
   * [Median playtime on Steam](https://galyonk.in/median-playtime-on-steam-8a3d67fda84d)
     * 分析了中数游戏时长与价格等因素的关系.
+  * [Using Intensity to Drive Player Engagement](http://www.gamasutra.com/blogs/CraigThomas/20170725/302297/Using_Intensity_to_Drive_Player_Engagement.php)
+    * 对flow进行量化建模，很有意思的文章。
 ### 开发日志
   * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
