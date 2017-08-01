@@ -31,7 +31,18 @@
   * [Median playtime on Steam](https://galyonk.in/median-playtime-on-steam-8a3d67fda84d)
     * 分析了中数游戏时长与价格等因素的关系.
   * [Using Intensity to Drive Player Engagement](http://www.gamasutra.com/blogs/CraigThomas/20170725/302297/Using_Intensity_to_Drive_Player_Engagement.php)
-    * 对flow进行量化建模，很有意思的文章。
+    * 对心流进行量化建模，很有意思的文章。
+  * [Understanding your game through data](https://galyonk.in/understanding-your-game-through-data-8b09ca93ec11)
+    * 按照制作流程的顺序，描述了准备期，开发期，发布后三个阶段应做的工作。
+    * 准备期
+      * 应该从游戏主题(预测主题)，核心玩法(分解核心玩法)，受众，市场竞争这四个方面进行研究。
+    * 开发期
+      * visual style反馈，游戏原型反馈
+    * 发布后
+      * 游戏中的行为统计分析，游戏中的经济掌握情况统计分析，游戏平衡。
+### Visual Style
+  * [Visual Style And Graphics in Games](https://jakdonlan.wordpress.com/about/visual-style-and-graphics-in-games/)
+    * Photorealism, Cel Shaded, Abstract, Exaggerated
 ### 开发日志
   * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
@@ -52,6 +63,8 @@
     * 分析了退款与游戏时长的关系.
   * [On Early Access games](https://galyonk.in/on-early-access-games-39aed2b8f82d)
     * 分析了Early Access游戏的一些特点，如果EA效果不好，会有大约四分之一的EA游戏坚持到退出，这个周期平均是14个月，而之后，平均销售是8000拷贝(14个月) / 3600拷贝(发布第一个月); youtube的覆盖率对第一个月的销售影响最大.
+  * [Some things you should know about Steam](https://galyonk.in/some-things-you-should-know-about-steam-5eaffcf33218)
+    * 详细的说明了，精准的提高本地化版本，可以提升销售结果.
 
 ### 算法
   * [Generating tile map](https://gamedev.stackexchange.com/questions/79049/generating-tile-map)
@@ -59,7 +72,7 @@
   * [How to Use Perlin Noise in Your Games](http://devmag.org.za/2009/04/25/perlin-noise/)
   * [Generate Random Cave Levels Using Cellular Automata](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)
 ## 有趣的游戏列表
-### 街机
+### 街机csv_filename = "indie_interaction_fiction_textbase.csv
   * [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
 ### FPS
   * [frail shells](https://fromsmiling.itch.io/frail-shells)
