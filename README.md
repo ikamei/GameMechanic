@@ -13,6 +13,10 @@
   ＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。
 ### [游戏设计要则探秘](https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&qid=1500947403&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98)
   * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候是可以使用的方法。
+### [What Are The Fundamentals of Art?(And How To Learn Them)](http://conceptartempire.com/what-are-the-fundamentals/)
+  * 介绍了绘画艺术的基础，需要理论的部分给出了一些书籍链接。
+### [Draw A Box](https://www.reddit.com/r/ArtFundamentals/)
+  * 一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。
 
 ## 文章&谈话
 ### Game Design
