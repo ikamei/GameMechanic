@@ -44,6 +44,7 @@
       * visual style反馈，游戏原型反馈
     * 发布后
       * 游戏中的行为统计分析，游戏中的经济掌握情况统计分析，游戏平衡。
+  * [Using Intensity to Drive Player Engagement]()
 ### Visual Style
   * [Visual Style And Graphics in Games](https://jakdonlan.wordpress.com/about/visual-style-and-graphics-in-games/)
     * Photorealism, Cel Shaded, Abstract, Exaggerated
@@ -52,6 +53,9 @@
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
   * [每一个独立游戏开发团队都有一个故事（下）](https://indienova.com/u/yuchting/blogread/3102)
   * [一个本该失败的游戏：Bioshock](https://zhuanlan.zhihu.com/p/27728799)
+  * [SteamSpy - Approximate LTD sales for every game on Steam (Updated Daily)](http://www.neogaf.com/forum/showthread.php?t=1022509)
+  * [Introducing Steam Gauge: Ars reveals Steam’s most popular games](https://arstechnica.com/gaming/2014/04/introducing-steam-gauge-ars-reveals-steams-most-popular-games/)
+
 ### marketing
   * [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
   * [独立游戏开发者该如何给游戏定价？](http://mgame.sohu.com/20160125/n435747556.shtml)
@@ -75,8 +79,20 @@
   * [How does one get started with procedural generation?](https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation)
   * [How to Use Perlin Noise in Your Games](http://devmag.org.za/2009/04/25/perlin-noise/)
   * [Generate Random Cave Levels Using Cellular Automata](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)
+  * Drifting Algorithms
+    * [2D Car Drifting, 一个关于2D Car Drifting的讨论](https://www.gamedev.net/forums/topic/608993-2d-car-drifting/)
+    * [如何用unity3d 三分钟实现简单的赛车漂移](http://www.manew.com/thread-106410-1-1.html)
+
+## Reviews
+### [Binding Of Isacc](BindingOfIsaccReview.md)
+### [Crimsonland](Crimsonland.md)
+### [Iron Crypticle](IronCrypticleReview.md)
+### [It Come From Space And Ate Our Brains](ItComeFromSpaceAndAteOurBrains.md)
+### [Overture Review](OvertureReview.md)
+### [State Of Anarchy](StateOfAnarchyReview.md)
+
 ## 有趣的游戏列表
-### 街机csv_filename = "indie_interaction_fiction_textbase.csv
+### 街机
   * [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
 ### FPS
   * [frail shells](https://fromsmiling.itch.io/frail-shells)
@@ -94,5 +110,4 @@
   * [dungeons-and-treasure(FPV)](https://dungeons-and-treasure.itch.io/dungeons-and-treasure)
   * [PION](http://store.steampowered.com/app/667550/PION/)
   * [Assault_Android_Cactus](http://store.steampowered.com/app/250110/Assault_Android_Cactus/)
-
 
