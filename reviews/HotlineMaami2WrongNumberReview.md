@@ -1,4 +1,4 @@
-# State Of Anarchy
+# Hotline Miami2 : Wrong Number
 # 第一次运行：
   * 时长180分钟。
   * 首先剧情很吸引人，代入感强。
