@@ -45,6 +45,10 @@
     * 发布后
       * 游戏中的行为统计分析，游戏中的经济掌握情况统计分析，游戏平衡。
   * [Using Intensity to Drive Player Engagement]()
+
+### balanceing
+  * [利用excel编写一个可配置的天赋加点模拟系统](https://indienova.com/u/rikukenzoh/blogread/3898)
+
 ### Visual Style
   * [Visual Style And Graphics in Games](https://jakdonlan.wordpress.com/about/visual-style-and-graphics-in-games/)
     * Photorealism, Cel Shaded, Abstract, Exaggerated
@@ -85,21 +89,21 @@
 
 ## Reviews
    * 探险
-      * [Binding Of Isacc](reviews/BindingOfIsaccReview.md)
-      * [Castle Of No Escape 2](reviews/CastleOfNoEscape2Review.md)
-      * [Dungeon Souls](reviews/DungeonSoulsReview.md)
-      * [Enter The Dungeon](reviews/EnterTheDungeonReview.md)
-      * [Iron Crypticle](reviews/IronCrypticleReview.md)
-      * [Monolith](reviews/MonolithReview.md)
-      * [Overture Review](reviews/OvertureReview.md)
-      * [Unexplored](reviews/UnexploredReview.md)
+     * [Binding Of Isacc](reviews/BindingOfIsaccReview.md)
+     * [Castle Of No Escape 2](reviews/CastleOfNoEscape2Review.md)
+     * [Dungeon Souls](reviews/DungeonSoulsReview.md)
+     * [Enter The Dungeon](reviews/EnterTheDungeonReview.md)
+     * [Iron Crypticle](reviews/IronCrypticleReview.md)
+     * [Monolith](reviews/MonolithReview.md)
+     * [Overture Review](reviews/OvertureReview.md)
+     * [Unexplored](reviews/UnexploredReview.md)
    * 生存射击
-      * [Crimsonland](reviews/Crimsonland.md)
-      * [It Come From Space And Ate Our Brains](reviews/ItComeFromSpaceAndAteOurBrains.md)
-      * [Splatter-Blood Red Edition](reviews/SplatterBloodRedEditionReview.md)
-      * [State Of Anarchy](reviews/StateOfAnarchyReview.md)
-      * [Tracks Of Triumph: Industrial Zone](reviews/TracksOfTriumph:IndustrialZoneReview.md)
-      * [Zombie Party](reviews/ZombiePartyReview.md)
+     * [Crimsonland](reviews/Crimsonland.md)
+     * [It Come From Space And Ate Our Brains](reviews/ItComeFromSpaceAndAteOurBrains.md)
+     * [Splatter-Blood Red Edition](reviews/SplatterBloodRedEditionReview.md)
+     * [State Of Anarchy](reviews/StateOfAnarchyReview.md)
+     * [Tracks Of Triumph: Industrial Zone](reviews/TracksOfTriumph:IndustrialZoneReview.md)
+     * [Zombie Party](reviews/ZombiePartyReview.md)
 ## 有趣的游戏列表
 ### 街机
   * [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
