@@ -27,7 +27,6 @@
       * visual style反馈，游戏原型反馈
     * 发布后
       * 游戏中的行为统计分析，游戏中的经济掌握情况统计分析，游戏平衡。
-  * [Using Intensity to Drive Player Engagement]()
   * [Using Intensity to Drive Player Engagement](https://www.gamasutra.com/blogs/GlennisMcClellan/20180108/312596/Designing_game_play_for_escape_rooms_using_video_game_design_techniques.php)
     * 阐述了解谜游戏中一些基本的要素：Puzzles, Boxes & Locks。
     * 另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。
@@ -56,6 +55,7 @@
   * [在游戏设计者眼中，哪款游戏将心理学研究应用到了极致？](http://mp.weixin.qq.com/s/Hcr8qM4zghE55LaH-9OMXw)
 ### 杂项
   * [环游美国，听独立游戏开发者们讲故事（一）丨触乐 ](http://mp.weixin.qq.com/s/sbCILLkUoOPD2liteen0ZA)
+  * [一份小团队参展的简易指南](https://www.indienova.com/indie-game-development/how-to-show-your-games-to-public/)
 
 ### marketing
   * [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
