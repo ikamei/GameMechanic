@@ -45,6 +45,9 @@
     * 发布后
       * 游戏中的行为统计分析，游戏中的经济掌握情况统计分析，游戏平衡。
   * [Using Intensity to Drive Player Engagement]()
+  * [Using Intensity to Drive Player Engagement](https://www.gamasutra.com/blogs/GlennisMcClellan/20180108/312596/Designing_game_play_for_escape_rooms_using_video_game_design_techniques.php)
+    * 阐述了解谜游戏中一些基本的要素：Puzzles, Boxes & Locks。
+    * 另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。
 
 ### balanceing
   * [利用excel编写一个可配置的天赋加点模拟系统](https://indienova.com/u/rikukenzoh/blogread/3898)
