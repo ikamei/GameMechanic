@@ -1,23 +1,6 @@
 # GameMechanic
 整理一些关于GameMechanic相关话题的资料与随笔。
 
-## 书籍:
-### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
-  * 书中对游戏机制进行了分类: 物理，渐进，战术机动，经济，社交。
-  * 描述了系统复杂性与游戏可玩性的关系。
-  * 通过实例构建经济系统。
-  * 描述了正反馈与负反馈的作用。
-### [The Art Of Game Design](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01ELZ472Q/ref=sr_1_1?ie=UTF8&qid=1500947428&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF)
-### Rules Of Play Game Design Fundamentals
-### [游戏设计梦工厂](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&ie=UTF8&qid=1498791824&sr=1-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82)
-  ＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。
-### [游戏设计要则探秘](https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&qid=1500947403&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98)
-  * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候是可以使用的方法。
-### [What Are The Fundamentals of Art?(And How To Learn Them)](http://conceptartempire.com/what-are-the-fundamentals/)
-  * 介绍了绘画艺术的基础，需要理论的部分给出了一些书籍链接。
-### [Draw A Box](https://www.reddit.com/r/ArtFundamentals/)
-  * 一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。
-
 ## 文章&谈话
 ### Game Design
   * [赛式方法论（上）：为什么你的游戏做不完、做得烂？这究竟是为什么？](https://zhuanlan.zhihu.com/p/20318510), [赛式方法论（下）：前期制作阶段究竟应该「做」些什么？](https://zhuanlan.zhihu.com/p/20334077)
@@ -29,7 +12,7 @@
       * 提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下.
     * [How to Write a Roguelike in 15 Steps](http://www.roguebasin.com/index.php?title=How_to_Write_a_Roguelike_in_15_Steps)
   * [Player motivation, part 1: Biological foundation of emotions](http://www.gamasutra.com/blogs/AndriiGoncharuk/20170721/302218/Player_motivation_part_1_Biological_foundation_of_emotions.php)
-    * Arginine, Asparagine, Glutamine, Adrenaline, Glycine, D-serine, Acetylcholine, Dopamine, Norepinephrine, Epinephrine, Serotonin, Histamine, Phenethylamine, N-methylphenethylamine, Tyramine, Vasoactive intestinal peptide, Growth hormone, Somatostatin, Neurokinin A, Neurokinin B, Substance P, Neuropeptide K, Adrenocorticotropic hormone, N-Acetylaspartylglutamate, Cocaine, Bombesin, Gastrin releasing peptide, Kisspeptin, Nitric oxide, Cortisol, Octopamine, Synephrine, Tryptamine, N-methyltryptamine, Anandamide, 2-Arachidonoylglycerol, 2-Arachidonyl glyceryl, N-Arachidonoyl dopamine, Virodhamine, Adenosine, Adenosine triphosphate, Galanin, Galanin-like peptide, Gastrin, Vasopressin, Oxytocin, Neurophysin I, Neurophysin II, Neuropeptide Y, Pancreatic polypeptide, Peptide YY, Enkephalin, Dynorphin, Endorphin, Endomorphin, Orexin A, Orexin B, Secretin, Motilin, Glucagon
+    * Arginine, Asparagine, Glutamine, Adrenaline, ……
   * [Mechanical Foreshadowing](http://www.gamasutra.com/blogs/NikhilMurthy/20170719/301979/Mechanical_Foreshadowing.php)
     * 分析了用伏笔的形式来解锁技能，物品等的优缺点。
   * [Median playtime on Steam](https://galyonk.in/median-playtime-on-steam-8a3d67fda84d)
@@ -101,40 +84,19 @@
     * [2D Car Drifting, 一个关于2D Car Drifting的讨论](https://www.gamedev.net/forums/topic/608993-2d-car-drifting/)
     * [如何用unity3d 三分钟实现简单的赛车漂移](http://www.manew.com/thread-106410-1-1.html)
 
-## Reviews
-   * 探险
-     * [Binding Of Isacc](reviews/BindingOfIsaccReview.md)
-     * [Castle Of No Escape 2](reviews/CastleOfNoEscape2Review.md)
-     * [Dungeon Souls](reviews/DungeonSoulsReview.md)
-     * [Enter The Dungeon](reviews/EnterTheDungeonReview.md)
-     * [Iron Crypticle](reviews/IronCrypticleReview.md)
-     * [Monolith](reviews/MonolithReview.md)
-     * [Overture Review](reviews/OvertureReview.md)
-     * [Unexplored](reviews/UnexploredReview.md)
-   * 生存射击
-     * [Crimsonland](reviews/Crimsonland.md)
-     * [It Come From Space And Ate Our Brains](reviews/ItComeFromSpaceAndAteOurBrains.md)
-     * [Splatter-Blood Red Edition](reviews/SplatterBloodRedEditionReview.md)
-     * [State Of Anarchy](reviews/StateOfAnarchyReview.md)
-     * [Tracks Of Triumph: Industrial Zone](reviews/TracksOfTriumph:IndustrialZoneReview.md)
-     * [Zombie Party](reviews/ZombiePartyReview.md)
-## 有趣的游戏列表
-### 街机
-  * [omega-enforcer-x](https://fartenko.itch.io/omega-enforcer-x)
-### FPS
-  * [frail shells](https://fromsmiling.itch.io/frail-shells)
-### 生存
-  * [Dont Bite Me Bro](https://muifwego.itch.io/dont-bite-me-bro)
-  * [Colony Survival](http://store.steampowered.com/app/366090/Colony_Survival/)
-### 冒险
-  * [The Adventurer and His Backpack](http://store.steampowered.com/app/635410/The_Adventurer_and_His_Backpack/)
-  * [The Labyrinth](http://store.steampowered.com/app/652050/The_Labyrinth/)
-  * [Voodoo](http://store.steampowered.com/app/467570/Voodoo/)
-  * [smoothie-galaxy](https://pixel-boy.itch.io/smoothie-galaxy)
-  * [wayfarer](https://ikroth.itch.io/wayfarer)
-  * [a-growing-adventure](https://frankiesmileshow.itch.io/a-growing-adventure)
-  * [fight-knight-ks](https://boen.itch.io/fight-knight-ks)
-  * [dungeons-and-treasure(FPV)](https://dungeons-and-treasure.itch.io/dungeons-and-treasure)
-  * [PION](http://store.steampowered.com/app/667550/PION/)
-  * [Assault_Android_Cactus](http://store.steampowered.com/app/250110/Assault_Android_Cactus/)
-
+## 书籍:
+### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
+  * 书中对游戏机制进行了分类: 物理，渐进，战术机动，经济，社交。
+  * 描述了系统复杂性与游戏可玩性的关系。
+  * 通过实例构建经济系统。
+  * 描述了正反馈与负反馈的作用。
+### [The Art Of Game Design](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01ELZ472Q/ref=sr_1_1?ie=UTF8&qid=1500947428&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF)
+### Rules Of Play Game Design Fundamentals
+### [游戏设计梦工厂](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&ie=UTF8&qid=1498791824&sr=1-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82)
+  ＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。
+### [游戏设计要则探秘](https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&qid=1500947403&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98)
+  * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候是可以使用的方法。
+### [What Are The Fundamentals of Art?(And How To Learn Them)](http://conceptartempire.com/what-are-the-fundamentals/)
+  * 介绍了绘画艺术的基础，需要理论的部分给出了一些书籍链接。
+### [Draw A Box](https://www.reddit.com/r/ArtFundamentals/)
+  * 一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。
