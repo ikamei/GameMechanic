@@ -44,6 +44,7 @@
   * [一个本该失败的游戏：Bioshock](https://zhuanlan.zhihu.com/p/27728799)
   * [SteamSpy - Approximate LTD sales for every game on Steam (Updated Daily)](http://www.neogaf.com/forum/showthread.php?t=1022509)
   * [Introducing Steam Gauge: Ars reveals Steam’s most popular games](https://arstechnica.com/gaming/2014/04/introducing-steam-gauge-ars-reveals-steams-most-popular-games/)
+  * [I Am Overburdened, recap and numbers](https://www.gamasutra.com/blogs/TamsKarsai/20180115/313005/I_Am_Overburdened_recap_and_numbers.php)作者已经走完一个流程，该文记录了作者对此次过程的反思与总结。
 ### 音乐
   * [【作曲宅】手把手教你创作独立游戏音乐 #1](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/)
   * [作曲宅 #2：老司机和弦搭配技巧](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-2/)
