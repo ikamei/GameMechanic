@@ -48,6 +48,7 @@
 ### 音乐
   * [【作曲宅】手把手教你创作独立游戏音乐 #1](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/)
   * [作曲宅 #2：老司机和弦搭配技巧](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-2/)
+  * [西安音乐学院网络教育平台听写教学资源](http://webscle.xacom.edu.cn/txjx.htm)
 ### 关卡设计
   * [【游戏开发】我的关卡设计流程 ](http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A)
     * 介绍了每一个阶段以及相关的岗位角色和输出成果，可以结合自己的游戏，对其进行修改总结。
