@@ -63,6 +63,15 @@
   * [环游美国，听独立游戏开发者们讲故事（一）丨触乐 ](http://mp.weixin.qq.com/s/sbCILLkUoOPD2liteen0ZA)
   * [一份小团队参展的简易指南](https://www.indienova.com/indie-game-development/how-to-show-your-games-to-public/)
 
+### 算法
+  * [Generating tile map](https://gamedev.stackexchange.com/questions/79049/generating-tile-map)
+  * [How does one get started with procedural generation?](https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation)
+  * [How to Use Perlin Noise in Your Games](http://devmag.org.za/2009/04/25/perlin-noise/)
+  * [Generate Random Cave Levels Using Cellular Automata](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)
+  * Drifting Algorithms
+    * [2D Car Drifting, 一个关于2D Car Drifting的讨论](https://www.gamedev.net/forums/topic/608993-2d-car-drifting/)
+    * [如何用unity3d 三分钟实现简单的赛车漂移](http://www.manew.com/thread-106410-1-1.html)
+
 ### marketing
   * [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
   * [独立游戏开发者该如何给游戏定价？](http://mgame.sohu.com/20160125/n435747556.shtml)
@@ -80,15 +89,8 @@
     * 分析了Early Access游戏的一些特点，如果EA效果不好，会有大约四分之一的EA游戏坚持到退出，这个周期平均是14个月，而之后，平均销售是8000拷贝(14个月) / 3600拷贝(发布第一个月); youtube的覆盖率对第一个月的销售影响最大.
   * [Some things you should know about Steam](https://galyonk.in/some-things-you-should-know-about-steam-5eaffcf33218)
     * 详细的说明了，精准的提高本地化版本，可以提升销售结果.
-
-### 算法
-  * [Generating tile map](https://gamedev.stackexchange.com/questions/79049/generating-tile-map)
-  * [How does one get started with procedural generation?](https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation)
-  * [How to Use Perlin Noise in Your Games](http://devmag.org.za/2009/04/25/perlin-noise/)
-  * [Generate Random Cave Levels Using Cellular Automata](https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664)
-  * Drifting Algorithms
-    * [2D Car Drifting, 一个关于2D Car Drifting的讨论](https://www.gamedev.net/forums/topic/608993-2d-car-drifting/)
-    * [如何用unity3d 三分钟实现简单的赛车漂移](http://www.manew.com/thread-106410-1-1.html)
+  * [Pitching for the Fences: Advice on Pitching Your Game to Publishers](https://www.gamasutra.com/blogs/DoraBreckinridge/20180104/312475/Pitching_for_the_Fences_Advice_on_Pitching_Your_Game_to_Publishers.php)
+    * 从开发这角度指出，在对接开发商的时候需要准备的那些工作.
 
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
