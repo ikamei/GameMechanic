@@ -57,8 +57,13 @@
   * [【游戏开发】我的关卡设计流程 ](http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A)
     * 介绍了每一个阶段以及相关的岗位角色和输出成果，可以结合自己的游戏，对其进行修改总结。
     * 1，设定，地点和主题。2，图像参考。3，环境故事。4, 关卡物件/目标。5, 关卡布局。6, 装修。7, PlayTest。
+    
 ### 心理学
   * [在游戏设计者眼中，哪款游戏将心理学研究应用到了极致？](http://mp.weixin.qq.com/s/Hcr8qM4zghE55LaH-9OMXw)
+  
+### 人类学
+  * [剑桥大学公开课：人类学](http://open.163.com/special/opencourse/anthropology.html)
+  
 ### 杂项
   * [环游美国，听独立游戏开发者们讲故事（一）丨触乐 ](http://mp.weixin.qq.com/s/sbCILLkUoOPD2liteen0ZA)
   * [一份小团队参展的简易指南](https://www.indienova.com/indie-game-development/how-to-show-your-games-to-public/)
