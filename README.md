@@ -5,8 +5,6 @@
 ### Game Design
   * [赛式方法论（上）：为什么你的游戏做不完、做得烂？这究竟是为什么？](https://zhuanlan.zhihu.com/p/20318510), [赛式方法论（下）：前期制作阶段究竟应该「做」些什么？](https://zhuanlan.zhihu.com/p/20334077)
     * 这两篇文章强调了游戏立项前的工作的重要性。
-  * [《幽灵玩具屋》(上) - 从纸面原型开始](https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop), [《幽灵玩具屋》(下) -深度解构系统设计](https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop)
-    * 描述了作者做纸面原型时的历程及思考。
   * roguelikes 
     * [the key design elements of roguelikes](https://gamedevelopment.tutsplus.com/articles/the-key-design-elements-of-roguelikes--cms-23510)
       * 提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下.
@@ -30,6 +28,11 @@
   * [Using Intensity to Drive Player Engagement](https://www.gamasutra.com/blogs/GlennisMcClellan/20180108/312596/Designing_game_play_for_escape_rooms_using_video_game_design_techniques.php)
     * 阐述了解谜游戏中一些基本的要素：Puzzles, Boxes & Locks。
     * 另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。
+### Game Design 案例分析
+  * [《幽灵玩具屋》(上) - 从纸面原型开始](https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop), [《幽灵玩具屋》(下) -深度解构系统设计](https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop)
+    * 描述了作者做纸面原型时的历程及思考。
+  * [Angle Jungle](https://www.gamasutra.com/blogs/JibranKhan/20171228/312273/Angle_Jungle__The_Making_of_a_Transformational_Puzzle_Game.php)
+    * 描述了Angle Jungle这款游戏在设计的过程。
 
 ### balanceing
   * [利用excel编写一个可配置的天赋加点模拟系统](https://indienova.com/u/rikukenzoh/blogread/3898)
@@ -57,7 +60,9 @@
   * [【游戏开发】我的关卡设计流程 ](http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A)
     * 介绍了每一个阶段以及相关的岗位角色和输出成果，可以结合自己的游戏，对其进行修改总结。
     * 1，设定，地点和主题。2，图像参考。3，环境故事。4, 关卡物件/目标。5, 关卡布局。6, 装修。7, PlayTest。
-    
+  * [Level Design: First Blocks](https://www.gamesfounder.com/articles/level-designs-first-blocks/)[Part 2 LD Theory](https://www.gamesfounder.com/articles/level-designs-first-blocks-part-2-ld-theory/)[Part3 Personal Skills](https://www.gamasutra.com/blogs/MaxPears/20171229/312356/Level_Design_First_Blocks_Part_3__Personal_Skills.php)
+    * 系统的介绍了，作者对关卡设计的理解和注意事项。
+
 ### 心理学
   * [在游戏设计者眼中，哪款游戏将心理学研究应用到了极致？](http://mp.weixin.qq.com/s/Hcr8qM4zghE55LaH-9OMXw)
   
