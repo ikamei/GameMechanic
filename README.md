@@ -51,7 +51,7 @@
 ### 音乐
   * [【作曲宅】手把手教你创作独立游戏音乐 #1](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/)
   * [作曲宅 #2：老司机和弦搭配技巧](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-2/)
-  * [西安音乐学院网络教育平台听写教学资源](http://webscle.xacom.edu.cn/txjx.htm)
+  * [PureData教程](https://www.bilibili.com/video/av9554999/)
   * [musictheory非常方便的练耳在线网站](https://www.musictheory.net/exercises)
   * [tonedear非常方便的练耳在线网站，提供自测功能](http://tonedear.com/)
   * [teoria非常方便的练耳在线网站，提供自测功能](https://www.teoria.com/en/exercises/)
