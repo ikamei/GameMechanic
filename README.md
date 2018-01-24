@@ -102,6 +102,10 @@
   * [Pitching for the Fences: Advice on Pitching Your Game to Publishers](https://www.gamasutra.com/blogs/DoraBreckinridge/20180104/312475/Pitching_for_the_Fences_Advice_on_Pitching_Your_Game_to_Publishers.php)
     * 从开发这角度指出，在对接开发商的时候需要准备的那些工作.
 
+### game jam
+  * [Inspired by the one in Chicago, Argentina held its very own Train Jam](https://www.gamasutra.com/blogs/AlejandroPro/20180123/313511/Inspired_by_the_one_in_Chicago_Argentina_held_its_very_own_Train_Jam.php)
+    * 视频里记录了比赛过程中的情况，感觉很有趣.
+
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
   * 书中对游戏机制进行了分类: 物理，渐进，战术机动，经济，社交。
