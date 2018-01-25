@@ -6,6 +6,9 @@
 ## 评估方法论
   * [Purposeful by Design? A Serious Game Design Assessment Framework](https://github.com/ikamei/GameMechanic/blob/master/files/asset-v1_MITx+11.127x+1T2015+type@asset+block@Purposeful_by_Design.pdf)
     * 针对严肃游戏提出的一个系统的评估方法，并用该方法对两个游戏进行分析。暂时觉得是一种写评论的思路。
+## 视觉反馈
+  * [The Micro-Rhetorics of Game-O-Matic](https://github.com/ikamei/GameMechanic/blob/master/files/Micro-Rhetorics.pdf)
+    * 提出了Micro-Rhetorics的组成要素，并举例如何应用于常见的GameMechanic。
 ## 杂项
   * [Game Conceptualization and Development Processes in the Global Game Jam](https://github.com/ikamei/GameMechanic/blob/master/files/zook-ggj-2013.pdf)
     * 针对2013 Global Game Jam做了在线调查问卷，收集了大家在“灵感启发”，“设计目标”，“原型设计方法”，“游戏的迭代”这四个方面的情况。
