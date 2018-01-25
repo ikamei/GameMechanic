@@ -55,7 +55,11 @@
   * [musictheory非常方便的练耳在线网站](https://www.musictheory.net/exercises)
   * [tonedear非常方便的练耳在线网站，提供自测功能](http://tonedear.com/)
   * [teoria非常方便的练耳在线网站，提供自测功能](https://www.teoria.com/en/exercises/)
-  
+  * [Audio Prototyping with Pure Data](https://www.gamasutra.com/view/feature/131258/audio_prototyping_with_pure_data.php)
+    * 介绍了使用puredata制作游戏音乐时的主要内容。
+  * [Practical synthetic sound design](http://www.moz.ac.at/sem/lehre/lib/pd-sounddesign/)
+    * 详细介绍了制作音效方面的内容，使用puredata作为制作工具。
+
 ### 关卡设计
   * [【游戏开发】我的关卡设计流程 ](http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A)
     * 介绍了每一个阶段以及相关的岗位角色和输出成果，可以结合自己的游戏，对其进行修改总结。
