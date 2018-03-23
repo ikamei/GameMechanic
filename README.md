@@ -28,6 +28,14 @@
   * [Using Intensity to Drive Player Engagement](https://www.gamasutra.com/blogs/GlennisMcClellan/20180108/312596/Designing_game_play_for_escape_rooms_using_video_game_design_techniques.php)
     * 阐述了解谜游戏中一些基本的要素：Puzzles, Boxes & Locks。
     * 另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。
+### Game Design Practice
+  * [Ask the Experts: How to Practice Game Design (On The Cheap)](https://www.gamasutra.com/view/news/109435/Ask_the_Experts_How_to_Practice_Game_Design_On_The_Cheap.php)
+    * 介绍了使用纸面游戏时练习游戏设计的一种性价比高的方法。
+  * [How Do I Practice Game Design?](https://www.reddit.com/r/gamedesign/comments/4sb810/how_do_i_practice_game_design/)
+  * [What should I do to practice game design?](https://www.reddit.com/r/gamedesign/comments/4zqz73/what_should_i_do_to_practice_game_design/)
+    * reddit上讨论怎样联系设计的帖子。
+
+
 ### Game Design 案例分析
   * [《幽灵玩具屋》(上) - 从纸面原型开始](https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop), [《幽灵玩具屋》(下) -深度解构系统设计](https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop)
     * 描述了作者做纸面原型时的历程及思考。
@@ -67,6 +75,12 @@
   * [Level Design: First Blocks](https://www.gamesfounder.com/articles/level-designs-first-blocks/)[Part 2 LD Theory](https://www.gamesfounder.com/articles/level-designs-first-blocks-part-2-ld-theory/)[Part3 Personal Skills](https://www.gamasutra.com/blogs/MaxPears/20171229/312356/Level_Design_First_Blocks_Part_3__Personal_Skills.php)
     * 系统的介绍了，作者对关卡设计的理解和注意事项。
 
+### 动作设计
+  * [谈谈手机动作游戏（中）——操作与反馈、硬直之于动作游戏](https://cowlevel.net/article/1955454)
+    * 文章中提到了动作设计的一些概念和流程，对于初学者还是很有用的。
+  * [游戏开发讲座两则：怎样让你的游戏更带感 ](https://www.bilibili.com/video/av5199528/?p=1)
+    * 视频中指出了让动作游戏更有意思的一些小技巧以及演示。
+
 ### 心理学
   * [在游戏设计者眼中，哪款游戏将心理学研究应用到了极致？](http://mp.weixin.qq.com/s/Hcr8qM4zghE55LaH-9OMXw)
   
@@ -85,6 +99,9 @@
   * Drifting Algorithms
     * [2D Car Drifting, 一个关于2D Car Drifting的讨论](https://www.gamedev.net/forums/topic/608993-2d-car-drifting/)
     * [如何用unity3d 三分钟实现简单的赛车漂移](http://www.manew.com/thread-106410-1-1.html)
+
+### networking
+  * [What Indie Devs Get Wrong About Professional Networking](https://www.gamasutra.com/blogs/RachelPresser/20180212/314540/What_Indie_Devs_Get_Wrong_About_Professional_Networking.php)
 
 ### marketing
   * [Steam Greenlight vs Steam Direct What indies need to know](http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php)
@@ -111,6 +128,17 @@
 ### game jam
   * [Inspired by the one in Chicago, Argentina held its very own Train Jam](https://www.gamasutra.com/blogs/AlejandroPro/20180123/313511/Inspired_by_the_one_in_Chicago_Argentina_held_its_very_own_Train_Jam.php)
     * 视频里记录了比赛过程中的情况，感觉很有趣.
+
+### 美术
+  * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](https://www.youtube.com/watch?v=yhGjCzxJV3E&list=PLCNWLAmyc3lPLYweavTcTnPL-abka1pHP)
+    * 视频里记录了3D软件制作卡通风格画面遇到的难点，以及解决方案。
+    * 颜色，外轮廓线，内轮廓线，动画帧的制作。
+  * [Blender: Enhance Realtime Toon Shading](https://www.youtube.com/watch?v=Goq3VtGSask)
+    * 视频里记录了用blender调出Toon Shading的整个shader，并予以简单的讲解。
+  * [Custom Toon Shader](https://www.youtube.com/watch?v=kgL0UBCQbtw)
+    * 视频里讲解了如何使用blender写Toon Shader。
+
+
 
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
