@@ -1,5 +1,5 @@
-# GameMechanic
-整理一些关于GameMechanic相关话题的资料与随笔。
+# Make a Video Game
+整理一些关于制作游戏的相关资料与随笔。
 
 ## 文章&谈话
 ### Game Design
@@ -28,19 +28,31 @@
   * [Using Intensity to Drive Player Engagement](https://www.gamasutra.com/blogs/GlennisMcClellan/20180108/312596/Designing_game_play_for_escape_rooms_using_video_game_design_techniques.php)
     * 阐述了解谜游戏中一些基本的要素：Puzzles, Boxes & Locks。
     * 另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。
+  * [game mechanic list](https://boardgamegeek.com/advsearch/boardgame)
+
+
 ### Game Design Practice
   * [Ask the Experts: How to Practice Game Design (On The Cheap)](https://www.gamasutra.com/view/news/109435/Ask_the_Experts_How_to_Practice_Game_Design_On_The_Cheap.php)
     * 介绍了使用纸面游戏时练习游戏设计的一种性价比高的方法。
   * [How Do I Practice Game Design?](https://www.reddit.com/r/gamedesign/comments/4sb810/how_do_i_practice_game_design/)
   * [What should I do to practice game design?](https://www.reddit.com/r/gamedesign/comments/4zqz73/what_should_i_do_to_practice_game_design/)
-    * reddit上讨论怎样联系设计的帖子。
+    * reddit上讨论怎样练习设计的帖子。
 
+### 数值
+  * [小窗终曲说策划](https://www.iqiyi.com/v_19rrbubd9w.html#curid=952309400_f193f108aa574d870ba59a74fc303256)
+    * 对国内数值策划进行了简要的介绍，对于完全不了解国内数值策划状况的人，是有帮助的。
+
+### Case Studies
+  * ['Rage' - Development Postmortem](http://www.gamasutra.com/blogs/JamesR/20170808/303207/Rage__Development_Postmortem.php)
+  * [2D Space Shooter Design Lessons](http://www.gamasutra.com/blogs/YangPulse/20170809/303072/2D_Space_Shooter_Design_Lessons.php)
 
 ### Game Design 案例分析
   * [《幽灵玩具屋》(上) - 从纸面原型开始](https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop), [《幽灵玩具屋》(下) -深度解构系统设计](https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop)
     * 描述了作者做纸面原型时的历程及思考。
   * [Angle Jungle](https://www.gamasutra.com/blogs/JibranKhan/20171228/312273/Angle_Jungle__The_Making_of_a_Transformational_Puzzle_Game.php)
     * 描述了Angle Jungle这款游戏在设计的过程。
+  * [Enabling narrative intentionality - a design analysis of 1979 Revolution: Black Friday](http://www.gamasutra.com/blogs/SayamGhosh/20170728/302639/Enabling_narrative_intentionality__a_design_analysis_of_1979_Revolution_Black_Friday.php)
+
 
 ### balanceing
   * [利用excel编写一个可配置的天赋加点模拟系统](https://indienova.com/u/rikukenzoh/blogread/3898)
@@ -48,6 +60,7 @@
 ### Visual Style
   * [Visual Style And Graphics in Games](https://jakdonlan.wordpress.com/about/visual-style-and-graphics-in-games/)
     * Photorealism, Cel Shaded, Abstract, Exaggerated
+
 ### 开发日志
   * [独立TCG《WAR OF KINGSHIP》开发日志(S）](https://indienova.com/u/baine/blogread/3207)
   * [每一个独立游戏开发团队都有一个故事（上）](https://indienova.com/u/yuchting/blogread/3101)
@@ -56,6 +69,8 @@
   * [SteamSpy - Approximate LTD sales for every game on Steam (Updated Daily)](http://www.neogaf.com/forum/showthread.php?t=1022509)
   * [Introducing Steam Gauge: Ars reveals Steam’s most popular games](https://arstechnica.com/gaming/2014/04/introducing-steam-gauge-ars-reveals-steams-most-popular-games/)
   * [I Am Overburdened, recap and numbers](https://www.gamasutra.com/blogs/TamsKarsai/20180115/313005/I_Am_Overburdened_recap_and_numbers.php)作者已经做完第二个游戏，该文记录了在该游戏发布后，作者对此次过程的反思与总结。
+  * [Workflow and Design Behind Creating One Game from Another in a Single Week](https://www.gamasutra.com/blogs/JoshGe/20180402/315708/Workflow_and_Design_Behind_Creating_One_Game_from_Another_in_a_Single_Week_7DRL_Postmortem.php)
+
 ### 音乐
   * [【作曲宅】手把手教你创作独立游戏音乐 #1](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/)
   * [作曲宅 #2：老司机和弦搭配技巧](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-2/)
@@ -67,6 +82,8 @@
     * 介绍了使用puredata制作游戏音乐时的主要内容。
   * [Practical synthetic sound design](http://www.moz.ac.at/sem/lehre/lib/pd-sounddesign/)
     * 详细介绍了制作音效方面的内容，使用puredata作为制作工具。
+  * [ Punch Sound Effects](https://www.gamedev.net/blogs/entry/2264749-punch-sound-effects/)
+    * 介绍了如何自己制作打脸音效。
 
 ### 关卡设计
   * [【游戏开发】我的关卡设计流程 ](http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A)
@@ -80,6 +97,14 @@
     * 文章中提到了动作设计的一些概念和流程，对于初学者还是很有用的。
   * [游戏开发讲座两则：怎样让你的游戏更带感 ](https://www.bilibili.com/video/av5199528/?p=1)
     * 视频中指出了让动作游戏更有意思的一些小技巧以及演示。
+
+### 片花制作
+  * [A Quick Guide to Making Indie Game Trailers](https://www.gamasutra.com/blogs/RyanSumo/20170825/304497/A_Quick_Guide_to_Making_Indie_Game_Trailers.php)
+    * 文章中描述了作者制作片花的过程，对一些细节还是感觉背后的逻辑挺合理的，比如多观看同类型其它游戏的片花，制作故事版。
+
+### 敌人设计
+  * [Build a Bad Guy Workshop](https://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php)
+    * 文章中尝试对设计敌人的基本元素进行分类，并归纳总结。
 
 ### 心理学
   * [在游戏设计者眼中，哪款游戏将心理学研究应用到了极致？](http://mp.weixin.qq.com/s/Hcr8qM4zghE55LaH-9OMXw)
@@ -136,8 +161,9 @@
   * [Blender: Enhance Realtime Toon Shading](https://www.youtube.com/watch?v=Goq3VtGSask)
     * 视频里记录了用blender调出Toon Shading的整个shader，并予以简单的讲解。
   * [Custom Toon Shader](https://www.youtube.com/watch?v=kgL0UBCQbtw)
-    * 视频里讲解了如何使用blender写Toon Shader。
-
+    * 视频里讲解了如何使用blender写Toon Shader
+  * [How to Draw Rocks](https://johnmuirlaws.com/how-to-draw-rocks/)
+    * 按照文章中的方法，很容易把石头画像。   
 
 
 ## 书籍:
@@ -156,3 +182,13 @@
   * 介绍了绘画艺术的基础，需要理论的部分给出了一些书籍链接。
 ### [Draw A Box](https://www.reddit.com/r/ArtFundamentals/)
   * 一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。
+
+## 开放的资源:
+### Celeste
+  * [音频工程文件](http://gamasutra.com/view/news/317384/Celestes_audio_files_are_now_publicly_available_for_devs.php)
+  * [角色运动部分源码](https://github.com/NoelFB/Celeste)
+
+## 开源代码游戏:
+### 竞速
+  * [A 3D racing game based on VDrift and OGRE with track editor](https://github.com/stuntrally/stuntrally)
+
