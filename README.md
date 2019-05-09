@@ -2,7 +2,7 @@
 整理一些关于制作游戏的相关资料与随笔。
 
 ## 文章&谈话
-### Game Design
+### 游戏设计
   * [赛式方法论（上）：为什么你的游戏做不完、做得烂？这究竟是为什么？](https://zhuanlan.zhihu.com/p/20318510), [赛式方法论（下）：前期制作阶段究竟应该「做」些什么？](https://zhuanlan.zhihu.com/p/20334077)
     * 这两篇文章强调了游戏立项前的工作的重要性。
   * roguelikes 
@@ -29,7 +29,9 @@
     * 阐述了解谜游戏中一些基本的要素：Puzzles, Boxes & Locks。
     * 另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。
   * [game mechanic list](https://boardgamegeek.com/advsearch/boardgame)
-
+  * [三消游戏的关卡该如何设计？这里有一套可通用的设计思路](https://cowlevel.net/article/2047079)
+  * [很赞的关卡设计](https://cowlevel.net/article/2045179)
+  * [数值设计从0到1（一）——职业数值设计](http://gad.qq.com/article/detail/228204)
 
 ### Game Design Practice
   * [Ask the Experts: How to Practice Game Design (On The Cheap)](https://www.gamasutra.com/view/news/109435/Ask_the_Experts_How_to_Practice_Game_Design_On_The_Cheap.php)
@@ -91,12 +93,21 @@
     * 1，设定，地点和主题。2，图像参考。3，环境故事。4, 关卡物件/目标。5, 关卡布局。6, 装修。7, PlayTest。
   * [Level Design: First Blocks](https://www.gamesfounder.com/articles/level-designs-first-blocks/)[Part 2 LD Theory](https://www.gamesfounder.com/articles/level-designs-first-blocks-part-2-ld-theory/)[Part3 Personal Skills](https://www.gamasutra.com/blogs/MaxPears/20171229/312356/Level_Design_First_Blocks_Part_3__Personal_Skills.php)
     * 系统的介绍了，作者对关卡设计的理解和注意事项。
+  * [很赞的关卡设计](https://cowlevel.net/people/leebai/article)
+    * 解释了一个最小的关卡设计是什么样子的。
+  * [Dead Cells: Hidden Tricks That Make The Game Feel Fair](https://80.lv/articles/dead-cells-hidden-tricks-that-make-the-game-feel-fair/)
+    * 视频内非常清晰的演示了在关卡设计时一些有用的技巧。
+
 
 ### 动作设计
   * [谈谈手机动作游戏（中）——操作与反馈、硬直之于动作游戏](https://cowlevel.net/article/1955454)
     * 文章中提到了动作设计的一些概念和流程，对于初学者还是很有用的。
   * [游戏开发讲座两则：怎样让你的游戏更带感 ](https://www.bilibili.com/video/av5199528/?p=1)
     * 视频中指出了让动作游戏更有意思的一些小技巧以及演示。
+  * [Using a 3D pipeline for 2D animation in Dead Cells](http://gamasutra.com/view/news/313026/Art_Design_Deep_Dive_Using_a_3D_pipeline_for_2D_animation_in_Dead_Cells.php)
+    * 文中提到了一些3渲2做低像素的线索。
+  * [Pixel art tutorials](https://blog.studiominiboss.com/pixelart)
+    * 里边有很多直观的关于像素动画的动作讲解
 
 ### 片花制作
   * [A Quick Guide to Making Indie Game Trailers](https://www.gamasutra.com/blogs/RyanSumo/20170825/304497/A_Quick_Guide_to_Making_Indie_Game_Trailers.php)
@@ -183,12 +194,14 @@
 ### [Draw A Box](https://www.reddit.com/r/ArtFundamentals/)
   * 一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。
 
-## 开放的资源:
-### Celeste
-  * [音频工程文件](http://gamasutra.com/view/news/317384/Celestes_audio_files_are_now_publicly_available_for_devs.php)
-  * [角色运动部分源码](https://github.com/NoelFB/Celeste)
+## 发布
+  * [Bossgard - How to release your game live on stream!](https://www.indiedb.com/games/bossgard/tutorials/bossgard-how-to-release-your-game-live-on-stream)
+  * [【夜神做游戏】如何在Steam上架作品？| 这是一个价值668元的教程视频](https://www.bilibili.com/video/av36912108)
 
 ## 开源代码游戏:
-### 竞速
-  * [A 3D racing game based on VDrift and OGRE with track editor](https://github.com/stuntrally/stuntrally)
+  * [Node.js 系列 - 搭建静态资源服务器](https://juejin.im/post/5bd7915ee51d457aba5e98f5)
+
+## 游戏原型
+  * [Molecats](https://www.youtube.com/watch?v=yx62zpo2eVI)
+    * 横版旋转关卡解密
 
