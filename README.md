@@ -86,6 +86,8 @@
     * 详细介绍了制作音效方面的内容，使用puredata作为制作工具。
   * [ Punch Sound Effects](https://www.gamedev.net/blogs/entry/2264749-punch-sound-effects/)
     * 介绍了如何自己制作打脸音效。
+  * [Sharing My Music and Sound FX - Over 1800 Tracks](https://realtimevfx.com/t/sharing-my-music-and-sound-fx-over-1800-tracks/3079/95)
+    * 内有大量背景音乐，使用时注意作者有些小要求。
 
 ### 关卡设计
   * [【游戏开发】我的关卡设计流程 ](http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A)
