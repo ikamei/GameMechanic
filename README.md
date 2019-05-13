@@ -206,4 +206,11 @@
 ## 游戏原型
   * [Molecats](https://www.youtube.com/watch?v=yx62zpo2eVI)
     * 横版旋转关卡解密
+  * [moncage](https://zd2283.itch.io/moncage)
+    * 3D旋转关卡解密
+  * [Simple Sandwich](https://indiegamesplus.com/2019/05/multiplayer-game-simple-sandwich-jumps-on-ingredients-for-great-eats)
+    * 类贪食蛇
+  * [wamu wamu 2](https://sokpop.itch.io/wamu-wamu-2)
+    * 类贪食蛇
+
 
