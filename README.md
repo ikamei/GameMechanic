@@ -212,5 +212,7 @@
     * 类贪食蛇
   * [wamu wamu 2](https://sokpop.itch.io/wamu-wamu-2)
     * 类贪食蛇
+  * [STICK HERO](https://www.emanueleferonato.com/2019/02/11/stick-hero-html5-prototype-built-with-phaser-using-no-physics-step-2-flipping-the-hero-and-collecting-coins/)
+    * 类似跳一跳
 
 
