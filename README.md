@@ -214,5 +214,7 @@
     * 类贪食蛇
   * [STICK HERO](https://www.emanueleferonato.com/2019/02/11/stick-hero-html5-prototype-built-with-phaser-using-no-physics-step-2-flipping-the-hero-and-collecting-coins/)
     * 类似跳一跳
+  * [GEMS Ropes](https://triqui.itch.io/gems-n-ropes)
+    * 蜘蛛人类
 
 
