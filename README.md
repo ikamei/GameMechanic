@@ -208,7 +208,8 @@
 ## 引擎
   * [Platform Game Engine (PGE) is a free and open source game engine and toolkit, giving developers the ability to create platform games.](https://github.com/WohlSoft/PGE-Project)
     * 平台引擎
-
+  * [RPG Character Generator](http://pcgen.org/)
+    * RPG角色数据生成器
 
 ## 游戏原型
   * [Molecats](https://www.youtube.com/watch?v=yx62zpo2eVI)
