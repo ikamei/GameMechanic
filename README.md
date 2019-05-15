@@ -177,6 +177,8 @@
     * 视频里讲解了如何使用blender写Toon Shader
   * [How to Draw Rocks](https://johnmuirlaws.com/how-to-draw-rocks/)
     * 按照文章中的方法，很容易把石头画像。   
+  * [Breakdown: Recreating Miles From Spider-Verse](https://80.lv/articles/breakdown-recreating-miles-from-spider-verse/)
+    * 视频中演示了如何利用zbrush, photoshop作出一幅最终的蜘蛛人CG图
 
 
 ## 书籍:
