@@ -210,6 +210,9 @@
     * 平台引擎
   * [RPG Character Generator](http://pcgen.org/)
     * RPG角色数据生成器
+  * [boardgame.io : Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
+    * 回合制游戏引擎
+
 
 ## 游戏原型
   * [Molecats](https://www.youtube.com/watch?v=yx62zpo2eVI)
