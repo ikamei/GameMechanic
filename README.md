@@ -223,5 +223,8 @@
 ### 步行模拟器
   * [Crumble](https://store.steampowered.com/app/1061180/Crumble/)
     * 步行模拟器
-
+### flappy bird类
+  * [Traffix](https://gamerockerr.itch.io/traffix)
+    * 测按键反应速度
+  
 
