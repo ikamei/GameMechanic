@@ -218,13 +218,27 @@
 
 
 ## 游戏原型
+### 旋转关卡解密
   * [Molecats](https://www.youtube.com/watch?v=yx62zpo2eVI)
     * 横版旋转关卡解密
   * [moncage](https://zd2283.itch.io/moncage)
     * 3D旋转关卡解密
+### 类贪食蛇
   * [Simple Sandwich](https://indiegamesplus.com/2019/05/multiplayer-game-simple-sandwich-jumps-on-ingredients-for-great-eats)
     * 类贪食蛇
   * [wamu wamu 2](https://sokpop.itch.io/wamu-wamu-2)
     * 类贪食蛇
-
+### 跳一跳
+  * [STICK HERO](https://www.emanueleferonato.com/2019/02/11/stick-hero-html5-prototype-built-with-phaser-using-no-physics-step-2-flipping-the-hero-and-collecting-coins/)
+    * 类似跳一跳
+### 蜘蛛人
+  * [GEMS Ropes](https://triqui.itch.io/gems-n-ropes)
+    * 蜘蛛人类
+### 步行模拟器
+  * [Crumble](https://store.steampowered.com/app/1061180/Crumble/)
+    * 步行模拟器
+### flappy bird类
+  * [Traffix](https://gamerockerr.itch.io/traffix)
+    * 测按键反应速度
+  
 
