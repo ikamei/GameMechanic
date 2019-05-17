@@ -55,7 +55,6 @@
     * 描述了Angle Jungle这款游戏在设计的过程。
   * [Enabling narrative intentionality - a design analysis of 1979 Revolution: Black Friday](http://www.gamasutra.com/blogs/SayamGhosh/20170728/302639/Enabling_narrative_intentionality__a_design_analysis_of_1979_Revolution_Black_Friday.php)
 
-
 ### balanceing
   * [利用excel编写一个可配置的天赋加点模拟系统](https://indienova.com/u/rikukenzoh/blogread/3898)
 
@@ -137,6 +136,10 @@
   * Drifting Algorithms
     * [2D Car Drifting, 一个关于2D Car Drifting的讨论](https://www.gamedev.net/forums/topic/608993-2d-car-drifting/)
     * [如何用unity3d 三分钟实现简单的赛车漂移](http://www.manew.com/thread-106410-1-1.html)
+
+### 物理
+  * [How to create a swinging rope in Unity](https://www.habrador.com/tutorials/rope/)
+    * 描述绳子的物理实现，里边有些参考资料非常简明
 
 ### networking
   * [What Indie Devs Get Wrong About Professional Networking](https://www.gamasutra.com/blogs/RachelPresser/20180212/314540/What_Indie_Devs_Get_Wrong_About_Professional_Networking.php)
