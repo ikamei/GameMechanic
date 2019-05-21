@@ -113,6 +113,7 @@
 ### 片花制作
   * [A Quick Guide to Making Indie Game Trailers](https://www.gamasutra.com/blogs/RyanSumo/20170825/304497/A_Quick_Guide_to_Making_Indie_Game_Trailers.php)
     * 文章中描述了作者制作片花的过程，对一些细节还是感觉背后的逻辑挺合理的，比如多观看同类型其它游戏的片花，制作故事版。
+  * [Tips on Making Indie Game Trailers](https://80.lv/articles/tips-on-making-indie-game-trailers/)
 
 ### 敌人设计
   * [Build a Bad Guy Workshop](https://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php)
