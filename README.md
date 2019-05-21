@@ -98,7 +98,8 @@
     * 解释了一个最小的关卡设计是什么样子的。
   * [Dead Cells: Hidden Tricks That Make The Game Feel Fair](https://80.lv/articles/dead-cells-hidden-tricks-that-make-the-game-feel-fair/)
     * 视频内非常清晰的演示了在关卡设计时一些有用的技巧。
-
+  * [Empires in Ruins - Designing new battles](https://www.indiedb.com/games/empires-in-ruins/news/empires-in-ruins-designing-new-battles)
+    * 这是一篇开发日志，文中介绍了策略类游戏的关卡设计流程。
 
 ### 动作设计
   * [谈谈手机动作游戏（中）——操作与反馈、硬直之于动作游戏](https://cowlevel.net/article/1955454)
