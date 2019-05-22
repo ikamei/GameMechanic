@@ -185,6 +185,9 @@
   * [Breakdown: Recreating Miles From Spider-Verse](https://80.lv/articles/breakdown-recreating-miles-from-spider-verse/)
     * 视频中演示了如何利用zbrush, photoshop作出一幅最终的蜘蛛人CG图
 
+### VFX
+  * [Creating Lasers with Unity Shader Graph](https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835)
+    * 视频中step-by-step讲解了如何使用shader graph创建激光效果。
 
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
