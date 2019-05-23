@@ -184,6 +184,9 @@
     * 按照文章中的方法，很容易把石头画像。   
   * [Breakdown: Recreating Miles From Spider-Verse](https://80.lv/articles/breakdown-recreating-miles-from-spider-verse/)
     * 视频中演示了如何利用zbrush, photoshop作出一幅最终的蜘蛛人CG图
+  * [TexturingTutorials](http://wiki.polycount.com/wiki/TexturingTutorials)
+  * [Hand Painted Primer](https://www.youtube.com/playlist?list=PLW54USAkyIJq1NNqEmHwgBNtXCaXK6eh6)
+  * [Hand Painted Texturing](http://3dmotive.com/series/hand-painted-texturing.html)
 
 ### VFX
   * [Creating Lasers with Unity Shader Graph](https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835)
