@@ -188,6 +188,8 @@
 ### VFX
   * [Creating Lasers with Unity Shader Graph](https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835)
     * 视频中step-by-step讲解了如何使用shader graph创建激光效果。
+  * [Houdini to ue4 study](https://realtimevfx.com/t/houdini-to-ue4-study/9103/9)
+    * 视频中介绍了如何使用hudini和ue4制作一个摧毁物体的效果。
 
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
@@ -220,6 +222,7 @@
     * RPG角色数据生成器
   * [boardgame.io : Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
     * 回合制游戏引擎
+ * [pyxel：一款基于python的用于制作2D复古游戏的引擎，包含齐全的工具集](https://github.com/kitao/pyxel) 
 
 
 ## 游戏原型
