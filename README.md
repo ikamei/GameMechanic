@@ -71,6 +71,9 @@
   * [Introducing Steam Gauge: Ars reveals Steam’s most popular games](https://arstechnica.com/gaming/2014/04/introducing-steam-gauge-ars-reveals-steams-most-popular-games/)
   * [I Am Overburdened, recap and numbers](https://www.gamasutra.com/blogs/TamsKarsai/20180115/313005/I_Am_Overburdened_recap_and_numbers.php)作者已经做完第二个游戏，该文记录了在该游戏发布后，作者对此次过程的反思与总结。
   * [Workflow and Design Behind Creating One Game from Another in a Single Week](https://www.gamasutra.com/blogs/JoshGe/20180402/315708/Workflow_and_Design_Behind_Creating_One_Game_from_Another_in_a_Single_Week_7DRL_Postmortem.php)
+  * [RetroDaddy的B站空间](https://www.bilibili.com/video/av49749781)
+  * [A Glider's Journey : May Devlog, big update :)](https://www.indiedb.com/games/a-gliders-journey/news/may-devlog-big-update)
+    * 制作游戏的流程值得借鉴.
 
 ### 音乐
   * [【作曲宅】手把手教你创作独立游戏音乐 #1](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/)
