@@ -114,6 +114,8 @@
   * [Pixel art tutorials](https://blog.studiominiboss.com/pixelart)
     * 里边有很多直观的关于像素动画的动作讲解
   * [Top Down Attack](https://blog.studiominiboss.com/post/185208266070/pedros-pixel-art-tutorial-package-is-now-on)
+  * [Animate a Simple Jump in Blender](https://blenderartists.org/t/animate-a-simple-jump-in-blender/1162332)
+    * In this video, we will learn how to animate a simple jump by using the Grease Pencil. 
 
 
 ### 片花制作
