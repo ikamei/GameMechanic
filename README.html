@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>游戏开发记事本</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="pandoc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="make-a-video-game">Make a Video Game</h1>
+<p>整理一些关于制作游戏的相关资料与随笔。</p>
+<h2 id="文章谈话">文章&amp;谈话</h2>
+<h3 id="游戏设计">游戏设计</h3>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/20318510">赛式方法论（上）：为什么你的游戏做不完、做得烂？这究竟是为什么？</a>, <a href="https://zhuanlan.zhihu.com/p/20334077">赛式方法论（下）：前期制作阶段究竟应该「做」些什么？</a>
+<ul>
+<li>这两篇文章强调了游戏立项前的工作的重要性。</li>
+</ul></li>
+<li>roguelikes
+<ul>
+<li><a href="https://gamedevelopment.tutsplus.com/articles/the-key-design-elements-of-roguelikes--cms-23510">the key design elements of roguelikes</a>
+<ul>
+<li>提出roguelike游戏的三个要素，1）动态生成环境。2）永久死亡。3）需要在理解下.</li>
+</ul></li>
+<li><a href="http://www.roguebasin.com/index.php?title=How_to_Write_a_Roguelike_in_15_Steps">How to Write a Roguelike in 15 Steps</a></li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/AndriiGoncharuk/20170721/302218/Player_motivation_part_1_Biological_foundation_of_emotions.php">Player motivation, part 1: Biological foundation of emotions</a>
+<ul>
+<li>Arginine, Asparagine, Glutamine, Adrenaline, ……</li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/NikhilMurthy/20170719/301979/Mechanical_Foreshadowing.php">Mechanical Foreshadowing</a>
+<ul>
+<li>分析了用伏笔的形式来解锁技能，物品等的优缺点。</li>
+</ul></li>
+<li><a href="https://galyonk.in/median-playtime-on-steam-8a3d67fda84d">Median playtime on Steam</a>
+<ul>
+<li>分析了中数游戏时长与价格等因素的关系.</li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/CraigThomas/20170725/302297/Using_Intensity_to_Drive_Player_Engagement.php">Using Intensity to Drive Player Engagement</a>
+<ul>
+<li>对心流进行量化建模，很有意思的文章。</li>
+</ul></li>
+<li><a href="https://galyonk.in/understanding-your-game-through-data-8b09ca93ec11">Understanding your game through data</a>
+<ul>
+<li>按照制作流程的顺序，描述了准备期，开发期，发布后三个阶段应做的工作。</li>
+<li>准备期
+<ul>
+<li>应该从游戏主题(预测主题)，核心玩法(分解核心玩法)，受众，市场竞争这四个方面进行研究。</li>
+</ul></li>
+<li>开发期
+<ul>
+<li>visual style反馈，游戏原型反馈</li>
+</ul></li>
+<li>发布后
+<ul>
+<li>游戏中的行为统计分析，游戏中的经济掌握情况统计分析，游戏平衡。</li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.gamasutra.com/blogs/GlennisMcClellan/20180108/312596/Designing_game_play_for_escape_rooms_using_video_game_design_techniques.php">Using Intensity to Drive Player Engagement</a>
+<ul>
+<li>阐述了解谜游戏中一些基本的要素：Puzzles, Boxes &amp; Locks。</li>
+<li>另外对设计流程也做了一些简要的介绍，只是现在还没有太多的感触。</li>
+</ul></li>
+<li><a href="https://boardgamegeek.com/advsearch/boardgame">game mechanic list</a></li>
+<li><a href="https://cowlevel.net/article/2047079">三消游戏的关卡该如何设计？这里有一套可通用的设计思路</a></li>
+<li><a href="https://cowlevel.net/article/2045179">很赞的关卡设计</a></li>
+<li><a href="http://gad.qq.com/article/detail/228204">数值设计从0到1（一）——职业数值设计</a></li>
+</ul>
+<h3 id="game-design-practice">Game Design Practice</h3>
+<ul>
+<li><a href="https://www.gamasutra.com/view/news/109435/Ask_the_Experts_How_to_Practice_Game_Design_On_The_Cheap.php">Ask the Experts: How to Practice Game Design (On The Cheap)</a>
+<ul>
+<li>介绍了使用纸面游戏时练习游戏设计的一种性价比高的方法。</li>
+</ul></li>
+<li><a href="https://www.reddit.com/r/gamedesign/comments/4sb810/how_do_i_practice_game_design/">How Do I Practice Game Design?</a></li>
+<li><a href="https://www.reddit.com/r/gamedesign/comments/4zqz73/what_should_i_do_to_practice_game_design/">What should I do to practice game design?</a>
+<ul>
+<li>reddit上讨论怎样练习设计的帖子。</li>
+</ul></li>
+</ul>
+<h3 id="数值">数值</h3>
+<ul>
+<li><a href="https://www.iqiyi.com/v_19rrbubd9w.html#curid=952309400_f193f108aa574d870ba59a74fc303256">小窗终曲说策划</a>
+<ul>
+<li>对国内数值策划进行了简要的介绍，对于完全不了解国内数值策划状况的人，是有帮助的。</li>
+</ul></li>
+</ul>
+<h3 id="case-studies">Case Studies</h3>
+<ul>
+<li><a href="http://www.gamasutra.com/blogs/JamesR/20170808/303207/Rage__Development_Postmortem.php">‘Rage’ - Development Postmortem</a></li>
+<li><a href="http://www.gamasutra.com/blogs/YangPulse/20170809/303072/2D_Space_Shooter_Design_Lessons.php">2D Space Shooter Design Lessons</a></li>
+</ul>
+<h3 id="game-design-案例分析">Game Design 案例分析</h3>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/20398061?columnSlug=game-design-workshop">《幽灵玩具屋》(上) - 从纸面原型开始</a>, <a href="https://zhuanlan.zhihu.com/p/20402745?columnSlug=game-design-workshop">《幽灵玩具屋》(下) -深度解构系统设计</a>
+<ul>
+<li>描述了作者做纸面原型时的历程及思考。</li>
+</ul></li>
+<li><a href="https://www.gamasutra.com/blogs/JibranKhan/20171228/312273/Angle_Jungle__The_Making_of_a_Transformational_Puzzle_Game.php">Angle Jungle</a>
+<ul>
+<li>描述了Angle Jungle这款游戏在设计的过程。</li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/SayamGhosh/20170728/302639/Enabling_narrative_intentionality__a_design_analysis_of_1979_Revolution_Black_Friday.php">Enabling narrative intentionality - a design analysis of 1979 Revolution: Black Friday</a></li>
+</ul>
+<h3 id="balanceing">balanceing</h3>
+<ul>
+<li><a href="https://indienova.com/u/rikukenzoh/blogread/3898">利用excel编写一个可配置的天赋加点模拟系统</a></li>
+</ul>
+<h3 id="visual-style">Visual Style</h3>
+<ul>
+<li><a href="https://jakdonlan.wordpress.com/about/visual-style-and-graphics-in-games/">Visual Style And Graphics in Games</a>
+<ul>
+<li>Photorealism, Cel Shaded, Abstract, Exaggerated</li>
+</ul></li>
+</ul>
+<h3 id="开发日志">开发日志</h3>
+<ul>
+<li><a href="https://indienova.com/u/baine/blogread/3207">独立TCG《WAR OF KINGSHIP》开发日志(S）</a></li>
+<li><a href="https://indienova.com/u/yuchting/blogread/3101">每一个独立游戏开发团队都有一个故事（上）</a></li>
+<li><a href="https://indienova.com/u/yuchting/blogread/3102">每一个独立游戏开发团队都有一个故事（下）</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/27728799">一个本该失败的游戏：Bioshock</a></li>
+<li><a href="http://www.neogaf.com/forum/showthread.php?t=1022509">SteamSpy - Approximate LTD sales for every game on Steam (Updated Daily)</a></li>
+<li><a href="https://arstechnica.com/gaming/2014/04/introducing-steam-gauge-ars-reveals-steams-most-popular-games/">Introducing Steam Gauge: Ars reveals Steam’s most popular games</a></li>
+<li><a href="https://www.gamasutra.com/blogs/TamsKarsai/20180115/313005/I_Am_Overburdened_recap_and_numbers.php">I Am Overburdened, recap and numbers</a>作者已经做完第二个游戏，该文记录了在该游戏发布后，作者对此次过程的反思与总结。</li>
+<li><a href="https://www.gamasutra.com/blogs/JoshGe/20180402/315708/Workflow_and_Design_Behind_Creating_One_Game_from_Another_in_a_Single_Week_7DRL_Postmortem.php">Workflow and Design Behind Creating One Game from Another in a Single Week</a></li>
+<li><a href="https://www.bilibili.com/video/av49749781">RetroDaddy的B站空间</a></li>
+<li><a href="https://www.indiedb.com/games/a-gliders-journey/news/may-devlog-big-update">A Glider’s Journey : May Devlog, big update :)</a>
+<ul>
+<li>制作游戏的流程值得借鉴.</li>
+</ul></li>
+</ul>
+<h3 id="音乐">音乐</h3>
+<ul>
+<li><a href="https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/">【作曲宅】手把手教你创作独立游戏音乐 #1</a></li>
+<li><a href="https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-2/">作曲宅 #2：老司机和弦搭配技巧</a></li>
+<li><a href="https://www.bilibili.com/video/av9554999/">PureData教程</a></li>
+<li><a href="https://www.musictheory.net/exercises">musictheory非常方便的练耳在线网站</a></li>
+<li><a href="http://tonedear.com/">tonedear非常方便的练耳在线网站，提供自测功能</a></li>
+<li><a href="https://www.teoria.com/en/exercises/">teoria非常方便的练耳在线网站，提供自测功能</a></li>
+<li><a href="https://www.gamasutra.com/view/feature/131258/audio_prototyping_with_pure_data.php">Audio Prototyping with Pure Data</a>
+<ul>
+<li>介绍了使用puredata制作游戏音乐时的主要内容。</li>
+</ul></li>
+<li><a href="http://www.moz.ac.at/sem/lehre/lib/pd-sounddesign/">Practical synthetic sound design</a>
+<ul>
+<li>详细介绍了制作音效方面的内容，使用puredata作为制作工具。</li>
+</ul></li>
+<li><a href="https://www.gamedev.net/blogs/entry/2264749-punch-sound-effects/">Punch Sound Effects</a>
+<ul>
+<li>介绍了如何自己制作打脸音效。</li>
+</ul></li>
+<li><a href="https://realtimevfx.com/t/sharing-my-music-and-sound-fx-over-1800-tracks/3079/95">Sharing My Music and Sound FX - Over 1800 Tracks</a>
+<ul>
+<li>内有大量背景音乐，使用时注意作者有些小要求。</li>
+</ul></li>
+</ul>
+<h3 id="关卡设计">关卡设计</h3>
+<ul>
+<li><a href="http://mp.weixin.qq.com/s/WvcvgXLTryuVNhTNgKxS0A">【游戏开发】我的关卡设计流程</a>
+<ul>
+<li>介绍了每一个阶段以及相关的岗位角色和输出成果，可以结合自己的游戏，对其进行修改总结。</li>
+<li>1，设定，地点和主题。2，图像参考。3，环境故事。4, 关卡物件/目标。5, 关卡布局。6, 装修。7, PlayTest。</li>
+</ul></li>
+<li><a href="https://www.gamesfounder.com/articles/level-designs-first-blocks/">Level Design: First Blocks</a><a href="https://www.gamesfounder.com/articles/level-designs-first-blocks-part-2-ld-theory/">Part 2 LD Theory</a><a href="https://www.gamasutra.com/blogs/MaxPears/20171229/312356/Level_Design_First_Blocks_Part_3__Personal_Skills.php">Part3 Personal Skills</a>
+<ul>
+<li>系统的介绍了，作者对关卡设计的理解和注意事项。</li>
+</ul></li>
+<li><a href="https://cowlevel.net/people/leebai/article">很赞的关卡设计</a>
+<ul>
+<li>解释了一个最小的关卡设计是什么样子的。</li>
+</ul></li>
+<li><a href="https://80.lv/articles/dead-cells-hidden-tricks-that-make-the-game-feel-fair/">Dead Cells: Hidden Tricks That Make The Game Feel Fair</a>
+<ul>
+<li>视频内非常清晰的演示了在关卡设计时一些有用的技巧。</li>
+</ul></li>
+<li><a href="https://www.indiedb.com/games/empires-in-ruins/news/empires-in-ruins-designing-new-battles">Empires in Ruins - Designing new battles</a>
+<ul>
+<li>这是一篇开发日志，文中介绍了策略类游戏的关卡设计流程。</li>
+</ul></li>
+</ul>
+<h3 id="动作设计">动作设计</h3>
+<ul>
+<li><a href="https://cowlevel.net/article/1955454">谈谈手机动作游戏（中）——操作与反馈、硬直之于动作游戏</a>
+<ul>
+<li>文章中提到了动作设计的一些概念和流程，对于初学者还是很有用的。</li>
+</ul></li>
+<li><a href="https://www.bilibili.com/video/av5199528/?p=1">游戏开发讲座两则：怎样让你的游戏更带感</a>
+<ul>
+<li>视频中指出了让动作游戏更有意思的一些小技巧以及演示。</li>
+</ul></li>
+<li><a href="http://gamasutra.com/view/news/313026/Art_Design_Deep_Dive_Using_a_3D_pipeline_for_2D_animation_in_Dead_Cells.php">Using a 3D pipeline for 2D animation in Dead Cells</a>
+<ul>
+<li>文中提到了一些3渲2做低像素的线索。</li>
+</ul></li>
+<li><a href="https://blog.studiominiboss.com/pixelart">Pixel art tutorials</a>
+<ul>
+<li>里边有很多直观的关于像素动画的动作讲解</li>
+</ul></li>
+</ul>
+<h3 id="片花制作">片花制作</h3>
+<ul>
+<li><a href="https://www.gamasutra.com/blogs/RyanSumo/20170825/304497/A_Quick_Guide_to_Making_Indie_Game_Trailers.php">A Quick Guide to Making Indie Game Trailers</a>
+<ul>
+<li>文章中描述了作者制作片花的过程，对一些细节还是感觉背后的逻辑挺合理的，比如多观看同类型其它游戏的片花，制作故事版。</li>
+</ul></li>
+<li><a href="https://80.lv/articles/tips-on-making-indie-game-trailers/">Tips on Making Indie Game Trailers</a></li>
+</ul>
+<h3 id="敌人设计">敌人设计</h3>
+<ul>
+<li><a href="https://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php">Build a Bad Guy Workshop</a>
+<ul>
+<li>文章中尝试对设计敌人的基本元素进行分类，并归纳总结。</li>
+</ul></li>
+</ul>
+<h3 id="心理学">心理学</h3>
+<ul>
+<li><a href="http://mp.weixin.qq.com/s/Hcr8qM4zghE55LaH-9OMXw">在游戏设计者眼中，哪款游戏将心理学研究应用到了极致？</a></li>
+</ul>
+<h3 id="人类学">人类学</h3>
+<ul>
+<li><a href="http://open.163.com/special/opencourse/anthropology.html">剑桥大学公开课：人类学</a></li>
+</ul>
+<h3 id="杂项">杂项</h3>
+<ul>
+<li><a href="http://mp.weixin.qq.com/s/sbCILLkUoOPD2liteen0ZA">环游美国，听独立游戏开发者们讲故事（一）丨触乐</a></li>
+<li><a href="https://www.indienova.com/indie-game-development/how-to-show-your-games-to-public/">一份小团队参展的简易指南</a></li>
+</ul>
+<h3 id="算法">算法</h3>
+<ul>
+<li><a href="https://gamedev.stackexchange.com/questions/79049/generating-tile-map">Generating tile map</a></li>
+<li><a href="https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation">How does one get started with procedural generation?</a></li>
+<li><a href="http://devmag.org.za/2009/04/25/perlin-noise/">How to Use Perlin Noise in Your Games</a></li>
+<li><a href="https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664">Generate Random Cave Levels Using Cellular Automata</a></li>
+<li>Drifting Algorithms
+<ul>
+<li><a href="https://www.gamedev.net/forums/topic/608993-2d-car-drifting/">2D Car Drifting, 一个关于2D Car Drifting的讨论</a></li>
+<li><a href="http://www.manew.com/thread-106410-1-1.html">如何用unity3d 三分钟实现简单的赛车漂移</a></li>
+</ul></li>
+</ul>
+<h3 id="物理">物理</h3>
+<ul>
+<li><a href="https://www.habrador.com/tutorials/rope/">How to create a swinging rope in Unity</a>
+<ul>
+<li>描述绳子的物理实现，里边有些参考资料非常简明</li>
+</ul></li>
+</ul>
+<h3 id="networking">networking</h3>
+<ul>
+<li><a href="https://www.gamasutra.com/blogs/RachelPresser/20180212/314540/What_Indie_Devs_Get_Wrong_About_Professional_Networking.php">What Indie Devs Get Wrong About Professional Networking</a></li>
+</ul>
+<h3 id="marketing">marketing</h3>
+<ul>
+<li><a href="http://www.gamasutra.com/blogs/SheenaPerez/20170710/301248/Steam_Greenlight_vs_Steam_Direct_What_indies_need_to_know.php">Steam Greenlight vs Steam Direct What indies need to know</a></li>
+<li><a href="http://mgame.sohu.com/20160125/n435747556.shtml">独立游戏开发者该如何给游戏定价？</a></li>
+<li><a href="http://www.gamasutra.com/blogs/LarsDoucet/20170719/301976/Stores_vs_Developers_vs_Customers_vs_Publishers.php">Stores vs. Developers vs. Customers vs. Publishers</a>
+<ul>
+<li>GOG, itch, steam …</li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/ErikJohnson/20170718/301540/Missing_the_Mark_The_Importance_of_Market_Fit.php">Missing the Mark: The Importance of Market Fit</a>
+<ul>
+<li>使用steam spy 分析最佳销售.</li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/RyanClark/20150917/253842/What_Makes_an_Indie_Hit_How_to_Choose_the_Right_Design.php">What Makes an Indie Hit?: How to Choose the Right Design</a>
+<ul>
+<li>使用steam spy和https://steamdb.info/ 来做市场分析.</li>
+</ul></li>
+<li><a href="http://www.gamasutra.com/blogs/DrMatthewWhite/20170718/301866/Protect_your_Steam_Keys.php">Protect your Steam Keys</a></li>
+<li><a href="http://www.gamasutra.com/blogs/JenniferMendez/20170714/301753/Fraud_in_the_Gaming_Industry.php">Fraud in the Gaming Industry</a></li>
+<li><a href="https://galyonk.in/how-many-games-are-eligible-for-steam-refunds-7a4f3ea74c19">How many games could be eligible for Steam refunds?</a>
+<ul>
+<li>分析了退款与游戏时长的关系.</li>
+</ul></li>
+<li><a href="https://galyonk.in/on-early-access-games-39aed2b8f82d">On Early Access games</a>
+<ul>
+<li>分析了Early Access游戏的一些特点，如果EA效果不好，会有大约四分之一的EA游戏坚持到退出，这个周期平均是14个月，而之后，平均销售是8000拷贝(14个月) / 3600拷贝(发布第一个月); youtube的覆盖率对第一个月的销售影响最大.</li>
+</ul></li>
+<li><a href="https://galyonk.in/some-things-you-should-know-about-steam-5eaffcf33218">Some things you should know about Steam</a>
+<ul>
+<li>详细的说明了，精准的提高本地化版本，可以提升销售结果.</li>
+</ul></li>
+<li><a href="https://www.gamasutra.com/blogs/DoraBreckinridge/20180104/312475/Pitching_for_the_Fences_Advice_on_Pitching_Your_Game_to_Publishers.php">Pitching for the Fences: Advice on Pitching Your Game to Publishers</a>
+<ul>
+<li>从开发这角度指出，在对接开发商的时候需要准备的那些工作.</li>
+</ul></li>
+<li><a href="https://www.gamasutra.com/blogs/ChrisZukowski/20180123/313397/What_we_can_learn_from_indie_fiction_authors.php">What we can learn from indie fiction authors</a>
+<ul>
+<li>以个体小说作者群体为观察对象，总结了它们的销售方法与策略.</li>
+</ul></li>
+</ul>
+<h3 id="game-jam">game jam</h3>
+<ul>
+<li><a href="https://www.gamasutra.com/blogs/AlejandroPro/20180123/313511/Inspired_by_the_one_in_Chicago_Argentina_held_its_very_own_Train_Jam.php">Inspired by the one in Chicago, Argentina held its very own Train Jam</a>
+<ul>
+<li>视频里记录了比赛过程中的情况，感觉很有趣.</li>
+</ul></li>
+</ul>
+<h3 id="美术">美术</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yhGjCzxJV3E&amp;list=PLCNWLAmyc3lPLYweavTcTnPL-abka1pHP">GuiltyGearXrd’s Art Style : The X Factor Between 2D and 3D</a>
+<ul>
+<li>视频里记录了3D软件制作卡通风格画面遇到的难点，以及解决方案。</li>
+<li>颜色，外轮廓线，内轮廓线，动画帧的制作。</li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=Goq3VtGSask">Blender: Enhance Realtime Toon Shading</a>
+<ul>
+<li>视频里记录了用blender调出Toon Shading的整个shader，并予以简单的讲解。</li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=kgL0UBCQbtw">Custom Toon Shader</a>
+<ul>
+<li>视频里讲解了如何使用blender写Toon Shader</li>
+</ul></li>
+<li><a href="https://johnmuirlaws.com/how-to-draw-rocks/">How to Draw Rocks</a>
+<ul>
+<li>按照文章中的方法，很容易把石头画像。<br />
+</li>
+</ul></li>
+<li><a href="https://80.lv/articles/breakdown-recreating-miles-from-spider-verse/">Breakdown: Recreating Miles From Spider-Verse</a>
+<ul>
+<li>视频中演示了如何利用zbrush, photoshop作出一幅最终的蜘蛛人CG图</li>
+</ul></li>
+<li><a href="http://wiki.polycount.com/wiki/TexturingTutorials">TexturingTutorials</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLW54USAkyIJq1NNqEmHwgBNtXCaXK6eh6">Hand Painted Primer</a></li>
+<li><a href="http://3dmotive.com/series/hand-painted-texturing.html">Hand Painted Texturing</a></li>
+</ul>
+<h3 id="vfx">VFX</h3>
+<ul>
+<li><a href="https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835">Creating Lasers with Unity Shader Graph</a>
+<ul>
+<li>视频中step-by-step讲解了如何使用shader graph创建激光效果。</li>
+</ul></li>
+<li><a href="https://realtimevfx.com/t/houdini-to-ue4-study/9103/9">Houdini to ue4 study</a>
+<ul>
+<li>视频中介绍了如何使用hudini和ue4制作一个摧毁物体的效果。</li>
+</ul></li>
+</ul>
+<h2 id="书籍">书籍:</h2>
+<h3 id="游戏机制高级游戏设计技术"><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&amp;qid=1498445343&amp;sr=8-1&amp;keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6">游戏机制:高级游戏设计技术</a></h3>
+<ul>
+<li>书中对游戏机制进行了分类: 物理，渐进，战术机动，经济，社交。</li>
+<li>描述了系统复杂性与游戏可玩性的关系。</li>
+<li>通过实例构建经济系统。</li>
+<li>描述了正反馈与负反馈的作用。</li>
+</ul>
+<h3 id="the-art-of-game-design"><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01ELZ472Q/ref=sr_1_1?ie=UTF8&amp;qid=1500947428&amp;sr=8-1&amp;keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF">The Art Of Game Design</a></h3>
+<h3 id="rules-of-play-game-design-fundamentals">Rules Of Play Game Design Fundamentals</h3>
+<h3 id="游戏设计梦工厂"><a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1498791824&amp;sr=1-1&amp;keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82">游戏设计梦工厂</a></h3>
+<p>＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。</p>
+<h3 id="游戏设计要则探秘"><a href="https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&amp;qid=1500947403&amp;sr=8-1&amp;keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98">游戏设计要则探秘</a></h3>
+<ul>
+<li>介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候是可以使用的方法。</li>
+</ul>
+<h3 id="what-are-the-fundamentals-of-artand-how-to-learn-them"><a href="http://conceptartempire.com/what-are-the-fundamentals/">What Are The Fundamentals of Art?(And How To Learn Them)</a></h3>
+<ul>
+<li>介绍了绘画艺术的基础，需要理论的部分给出了一些书籍链接。</li>
+</ul>
+<h3 id="draw-a-box"><a href="https://www.reddit.com/r/ArtFundamentals/">Draw A Box</a></h3>
+<ul>
+<li>一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。</li>
+</ul>
+<h2 id="发布">发布</h2>
+<ul>
+<li><a href="https://www.indiedb.com/games/bossgard/tutorials/bossgard-how-to-release-your-game-live-on-stream">Bossgard - How to release your game live on stream!</a></li>
+<li><a href="https://www.bilibili.com/video/av36912108">【夜神做游戏】如何在Steam上架作品？| 这是一个价值668元的教程视频</a></li>
+</ul>
+<h2 id="开源代码游戏">开源代码游戏:</h2>
+<ul>
+<li><a href="https://juejin.im/post/5bd7915ee51d457aba5e98f5">Node.js 系列 - 搭建静态资源服务器</a></li>
+</ul>
+<h2 id="引擎">引擎</h2>
+<ul>
+<li><a href="https://github.com/WohlSoft/PGE-Project">Platform Game Engine (PGE) is a free and open source game engine and toolkit, giving developers the ability to create platform games.</a>
+<ul>
+<li>平台引擎</li>
+</ul></li>
+<li><a href="http://pcgen.org/">RPG Character Generator</a>
+<ul>
+<li>RPG角色数据生成器</li>
+</ul></li>
+<li><a href="https://github.com/nicolodavis/boardgame.io">boardgame.io : Open Source Game Engine for Turn-Based Games</a>
+<ul>
+<li>回合制游戏引擎</li>
+</ul></li>
+<li><a href="https://github.com/kitao/pyxel">pyxel：一款基于python的用于制作2D复古游戏的引擎，包含齐全的工具集</a></li>
+<li><a href="https://github.com/colyseus/colyseus">colyseus：Multiplayer Game Server for Node.js</a></li>
+</ul>
+<h2 id="游戏原型">游戏原型</h2>
+<h3 id="旋转关卡解密">旋转关卡解密</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yx62zpo2eVI">Molecats</a>
+<ul>
+<li>横版旋转关卡解密</li>
+</ul></li>
+<li><a href="https://zd2283.itch.io/moncage">moncage</a>
+<ul>
+<li>3D旋转关卡解密</li>
+</ul></li>
+</ul>
+<h3 id="类贪食蛇">类贪食蛇</h3>
+<ul>
+<li><a href="https://indiegamesplus.com/2019/05/multiplayer-game-simple-sandwich-jumps-on-ingredients-for-great-eats">Simple Sandwich</a>
+<ul>
+<li>类贪食蛇</li>
+</ul></li>
+<li><a href="https://sokpop.itch.io/wamu-wamu-2">wamu wamu 2</a>
+<ul>
+<li>类贪食蛇</li>
+</ul></li>
+</ul>
+<h3 id="跳一跳">跳一跳</h3>
+<ul>
+<li><a href="https://www.emanueleferonato.com/2019/02/11/stick-hero-html5-prototype-built-with-phaser-using-no-physics-step-2-flipping-the-hero-and-collecting-coins/">STICK HERO</a>
+<ul>
+<li>类似跳一跳</li>
+</ul></li>
+</ul>
+<h3 id="蜘蛛人">蜘蛛人</h3>
+<ul>
+<li><a href="https://triqui.itch.io/gems-n-ropes">GEMS Ropes</a>
+<ul>
+<li>蜘蛛人类</li>
+</ul></li>
+</ul>
+<h3 id="步行模拟器">步行模拟器</h3>
+<ul>
+<li><a href="https://store.steampowered.com/app/1061180/Crumble/">Crumble</a>
+<ul>
+<li>步行模拟器</li>
+</ul></li>
+</ul>
+<h3 id="flappy-bird类">flappy bird类</h3>
+<ul>
+<li><a href="https://gamerockerr.itch.io/traffix">Traffix</a>
+<ul>
+<li>测按键反应速度</li>
+</ul></li>
+</ul>
+<h2 id="有趣的主题">有趣的主题</h2>
+<ul>
+<li><a href="https://indiegamesplus.com/2019/05/house-flipper-gets-a-green-thumb-with-garden-flipper-dlc">House Flipper</a></li>
+</ul>
+</body>
+</html>
