@@ -113,6 +113,8 @@
     * 文中提到了一些3渲2做低像素的线索。
   * [Pixel art tutorials](https://blog.studiominiboss.com/pixelart)
     * 里边有很多直观的关于像素动画的动作讲解
+  * [Top Down Attack](https://blog.studiominiboss.com/post/185208266070/pedros-pixel-art-tutorial-package-is-now-on)
+
 
 ### 片花制作
   * [A Quick Guide to Making Indie Game Trailers](https://www.gamasutra.com/blogs/RyanSumo/20170825/304497/A_Quick_Guide_to_Making_Indie_Game_Trailers.php)
@@ -203,14 +205,20 @@
   * 描述了系统复杂性与游戏可玩性的关系。
   * 通过实例构建经济系统。
   * 描述了正反馈与负反馈的作用。
+
 ### [The Art Of Game Design](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01ELZ472Q/ref=sr_1_1?ie=UTF8&qid=1500947428&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF)
+
 ### Rules Of Play Game Design Fundamentals
+
 ### [游戏设计梦工厂](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01EIE3L7W/ref=sr_1_1?s=books&ie=UTF8&qid=1498791824&sr=1-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E6%A2%A6%E5%B7%A5%E5%8E%82)
   ＊ 书中框架性的介绍了游戏开发的流程，要经历，概念设计，原型制作（纸面模型，软件原型），游戏测试等，其中印象较深的是对FPS游戏建立纸面模型做了较详细的介绍。
+
 ### [游戏设计要则探秘](https://www.amazon.cn/dp/B00T4ZU5G6/ref=sr_1_1?ie=UTF8&qid=1500947403&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%A6%81%E5%88%99%E6%8E%A2%E7%A7%98)
   * 介绍了设计游戏时一实践性很强的方法，如定义动词和宾语，设置阻力……暂时觉得这两点在设计的时候是可以使用的方法。
+
 ### [What Are The Fundamentals of Art?(And How To Learn Them)](http://conceptartempire.com/what-are-the-fundamentals/)
   * 介绍了绘画艺术的基础，需要理论的部分给出了一些书籍链接。
+
 ### [Draw A Box](https://www.reddit.com/r/ArtFundamentals/)
   * 一个基于练习的绘画基础学习网站，可以提交作业，版主会有点评。
 
@@ -237,24 +245,28 @@
     * 横版旋转关卡解密
   * [moncage](https://zd2283.itch.io/moncage)
     * 3D旋转关卡解密
+
 ### 类贪食蛇
   * [Simple Sandwich](https://indiegamesplus.com/2019/05/multiplayer-game-simple-sandwich-jumps-on-ingredients-for-great-eats)
     * 类贪食蛇
   * [wamu wamu 2](https://sokpop.itch.io/wamu-wamu-2)
     * 类贪食蛇
+
 ### 跳一跳
   * [STICK HERO](https://www.emanueleferonato.com/2019/02/11/stick-hero-html5-prototype-built-with-phaser-using-no-physics-step-2-flipping-the-hero-and-collecting-coins/)
     * 类似跳一跳
+
 ### 蜘蛛人
   * [GEMS Ropes](https://triqui.itch.io/gems-n-ropes)
     * 蜘蛛人类
+
 ### 步行模拟器
   * [Crumble](https://store.steampowered.com/app/1061180/Crumble/)
     * 步行模拟器
+
 ### flappy bird类
   * [Traffix](https://gamerockerr.itch.io/traffix)
     * 测按键反应速度
   
-
 ## 有趣的主题
   * [House Flipper](https://indiegamesplus.com/2019/05/house-flipper-gets-a-green-thumb-with-garden-flipper-dlc)
