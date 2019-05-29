@@ -199,8 +199,7 @@
   * [Houdini to ue4 study](https://realtimevfx.com/t/houdini-to-ue4-study/9103/9)
     * 视频中介绍了如何使用hudini和ue4制作一个摧毁物体的效果。
   * [Explosions for Games I - UE4 Shader Tutorial](https://vimeo.com/338962167)
-
-
+  * [Camouflage Shader on ShaderForge](https://www.patreon.com/posts/camouflage-on-27190908)
 
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
