@@ -194,6 +194,8 @@
   * [TexturingTutorials](http://wiki.polycount.com/wiki/TexturingTutorials)
   * [Hand Painted Primer](https://www.youtube.com/playlist?list=PLW54USAkyIJq1NNqEmHwgBNtXCaXK6eh6)
   * [Hand Painted Texturing](http://3dmotive.com/series/hand-painted-texturing.html)
+  * [Texture drawing](https://realtimevfx.com/t/texture-drawing/9238)
+    * 该主题下讨论了大家常用的绘制纹理的方法和工具。
 
 ### VFX
   * [Creating Lasers with Unity Shader Graph](https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835)
