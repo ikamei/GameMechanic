@@ -74,6 +74,8 @@
   * [RetroDaddy的B站空间](https://www.bilibili.com/video/av49749781)
   * [A Glider's Journey : May Devlog, big update :)](https://www.indiedb.com/games/a-gliders-journey/news/may-devlog-big-update)
     * 制作游戏的流程值得借鉴.
+  * [《星界战场》开发日志 #2](https://indienova.com/indie-game-development/astral-battlefield-devlog-2/)
+    * 回合策略游戏《星界战场》的开发日志
 
 ### 音乐
   * [【作曲宅】手把手教你创作独立游戏音乐 #1](https://www.indienova.com/indie-game-development/indie-game-maker-tutorial-step-by-step-1/)
@@ -183,6 +185,7 @@
     * 视频里记录了比赛过程中的情况，感觉很有趣.
 
 ### 美术
+#### 软件教程
   * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](https://www.youtube.com/watch?v=yhGjCzxJV3E&list=PLCNWLAmyc3lPLYweavTcTnPL-abka1pHP)
     * 视频里记录了3D软件制作卡通风格画面遇到的难点，以及解决方案。
     * 颜色，外轮廓线，内轮廓线，动画帧的制作。
@@ -190,23 +193,42 @@
     * 视频里记录了用blender调出Toon Shading的整个shader，并予以简单的讲解。
   * [Custom Toon Shader](https://www.youtube.com/watch?v=kgL0UBCQbtw)
     * 视频里讲解了如何使用blender写Toon Shader
-  * [How to Draw Rocks](https://johnmuirlaws.com/how-to-draw-rocks/)
-    * 按照文章中的方法，很容易把石头画像。   
+
+#### 概念图
   * [Breakdown: Recreating Miles From Spider-Verse](https://80.lv/articles/breakdown-recreating-miles-from-spider-verse/)
     * 视频中演示了如何利用zbrush, photoshop作出一幅最终的蜘蛛人CG图
-  * [TexturingTutorials](http://wiki.polycount.com/wiki/TexturingTutorials)
-  * [Hand Painted Primer](https://www.youtube.com/playlist?list=PLW54USAkyIJq1NNqEmHwgBNtXCaXK6eh6)
-  * [Hand Painted Texturing](http://3dmotive.com/series/hand-painted-texturing.html)
-  * [Texture drawing](https://realtimevfx.com/t/texture-drawing/9238)
-    * 该主题下讨论了大家常用的绘制纹理的方法和工具。
+  * [Settling on program workflow for Unreal](https://polycount.com/discussion/211768/settling-on-program-workflow-for-unreal)
+    * 该主题下讨论了3D软件组合使用的一个例子, blender, zbrush, substance
+  * [Tutorial: Illustrating an Appealing Cyberpunk Scene](https://80.lv/articles/tutorial-illustrating-an-appealing-cyberpunk-scene/)
+    * 该主题下讨论了3D软件组合使用的一个例子, photoshop, zbrush, maya, keyshot
+  * [Deer Knight: Character Production Study](https://80.lv/articles/deer-knight-production-in-zbrush-blender/)
+    * 该主题下讨论了3D软件组合使用的一个例子, zbrush, blender, corona
 
-### VFX
+#### VFX
   * [Creating Lasers with Unity Shader Graph](https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835)
     * 视频中step-by-step讲解了如何使用shader graph创建激光效果。
   * [Houdini to ue4 study](https://realtimevfx.com/t/houdini-to-ue4-study/9103/9)
     * 视频中介绍了如何使用hudini和ue4制作一个摧毁物体的效果。
   * [Explosions for Games I - UE4 Shader Tutorial](https://vimeo.com/338962167)
   * [Camouflage Shader on ShaderForge](https://www.patreon.com/posts/camouflage-on-27190908)
+
+#### 手绘
+  * [How to Draw Rocks](https://johnmuirlaws.com/how-to-draw-rocks/)
+    * 按照文章中的方法，很容易把石头画像。   
+
+#### UI/UX
+  * [Checklist Design](https://www.checklist.design/)
+    * A collection of the best UX and UI practices.
+  * [Game UI Patterns](https://gameuipatterns.com/)
+    * A resource for game devs who are looking for inspiration and common solutions to common problems regarding UI design.
+
+#### 杂项
+  * [TexturingTutorials](http://wiki.polycount.com/wiki/TexturingTutorials)
+  * [Hand Painted Primer](https://www.youtube.com/playlist?list=PLW54USAkyIJq1NNqEmHwgBNtXCaXK6eh6)
+  * [Hand Painted Texturing](http://3dmotive.com/series/hand-painted-texturing.html)
+  * [Texture drawing](https://realtimevfx.com/t/texture-drawing/9238)
+    * 该主题下讨论了大家常用的绘制纹理的方法和工具。
+
 
 ## 书籍:
 ### [游戏机制:高级游戏设计技术](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00J5OLQHI/ref=sr_1_1?ie=UTF8&qid=1498445343&sr=8-1&keywords=%E6%B8%B8%E6%88%8F%E6%9C%BA%E5%88%B6)
