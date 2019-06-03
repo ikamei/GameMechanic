@@ -221,6 +221,8 @@
     * A collection of the best UX and UI practices.
   * [Game UI Patterns](https://gameuipatterns.com/)
     * A resource for game devs who are looking for inspiration and common solutions to common problems regarding UI design.
+  * [Wireframes, Prototypes, Mockups: what’s the difference?](https://uxdesign.cc/wireframes-prototypes-mockups-whats-the-difference-861d7e4826b9)
+    * 解释了设计领域的3个基本概念。
 
 #### 杂项
   * [TexturingTutorials](http://wiki.polycount.com/wiki/TexturingTutorials)
