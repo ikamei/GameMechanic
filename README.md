@@ -204,14 +204,6 @@
   * [Deer Knight: Character Production Study](https://80.lv/articles/deer-knight-production-in-zbrush-blender/)
     * 该主题下讨论了3D软件组合使用的一个例子, zbrush, blender, corona
 
-#### VFX
-  * [Creating Lasers with Unity Shader Graph](https://realtimevfx.com/t/creating-lasers-with-unity-shader-graph/8835)
-    * 视频中step-by-step讲解了如何使用shader graph创建激光效果。
-  * [Houdini to ue4 study](https://realtimevfx.com/t/houdini-to-ue4-study/9103/9)
-    * 视频中介绍了如何使用hudini和ue4制作一个摧毁物体的效果。
-  * [Explosions for Games I - UE4 Shader Tutorial](https://vimeo.com/338962167)
-  * [Camouflage Shader on ShaderForge](https://www.patreon.com/posts/camouflage-on-27190908)
-
 #### 手绘
   * [How to Draw Rocks](https://johnmuirlaws.com/how-to-draw-rocks/)
     * 按照文章中的方法，很容易把石头画像。   
@@ -229,12 +221,6 @@
     * 文章讲述了制作饮食app界面的流程，以及使用的一些工具。
   * [Spotify for Cooking: making meal prep easy and fun — a UX case study](https://uxdesign.cc/spotify-for-cooking-making-meal-prep-easy-and-fun-a-ux-case-study-967073a6be84)
     * 文章讲述了制作饮食app界面的流程，以及使用的一些工具。
-  * [Video game UI: The design process explained](https://medium.com/@a_kill_/video-game-ui-the-design-process-explained-14c23fa70d37)
-    * 待查
-  * [Case Study: Letter Bounce. UI Design for a Mobile Game Application](https://uxplanet.org/case-study-letter-bounce-ui-design-for-a-mobile-game-application-489e0a81df9a)
-    * 待查
-  * [Case Study: Real Racing. UX and UI Design for Mobile Game](https://tubikstudio.com/case-study-real-racing-ux-ui-design-for-mobile-game/)
-    * 待查
 
 #### 杂项
   * [TexturingTutorials](http://wiki.polycount.com/wiki/TexturingTutorials)
