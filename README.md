@@ -75,6 +75,7 @@
   * [A Glider's Journey : May Devlog, big update :)](https://www.indiedb.com/games/a-gliders-journey/news/may-devlog-big-update)
     * 制作游戏的流程值得借鉴.
   * [《星界战场》开发日志 #2](https://indienova.com/indie-game-development/astral-battlefield-devlog-2/)
+  * [《星界战场》开发日志 #3](https://indienova.com/indie-game-development/astral-battlefield-devlog-3/)
     * 回合策略游戏《星界战场》的开发日志
 
 ### 音乐
@@ -256,6 +257,7 @@
 ## 发布
   * [Bossgard - How to release your game live on stream!](https://www.indiedb.com/games/bossgard/tutorials/bossgard-how-to-release-your-game-live-on-stream)
   * [【夜神做游戏】如何在Steam上架作品？| 这是一个价值668元的教程视频](https://www.bilibili.com/video/av36912108)
+  * [Steam 商店页面和游戏上传](https://indienova.com/indie-game-development/hands-on-steamworks/)
 
 ## 开源代码游戏:
   * [Node.js 系列 - 搭建静态资源服务器](https://juejin.im/post/5bd7915ee51d457aba5e98f5)
