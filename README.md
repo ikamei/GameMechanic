@@ -262,7 +262,7 @@
 ## 开源代码游戏:
   * [Node.js 系列 - 搭建静态资源服务器](https://juejin.im/post/5bd7915ee51d457aba5e98f5)
 
-## 引擎
+## 引擎和类库
   * [Platform Game Engine (PGE) is a free and open source game engine and toolkit, giving developers the ability to create platform games.](https://github.com/WohlSoft/PGE-Project)
     * 平台引擎
   * [RPG Character Generator](http://pcgen.org/)
@@ -271,6 +271,9 @@
     * 回合制游戏引擎
  * [pyxel：一款基于python的用于制作2D复古游戏的引擎，包含齐全的工具集](https://github.com/kitao/pyxel) 
  * [colyseus：Multiplayer Game Server for Node.js](https://github.com/colyseus/colyseus)
+ * [behaviac是游戏AI的开发框架组件，也是游戏原型的快速设计工具](https://github.com/Tencent/behaviac)
+ * [NPBehave - An event driven Behavior Tree Library for code based AIs in Unity](https://github.com/meniku/NPBehave)
+ * [A lightweight behavior tree library in C++.](https://github.com/miccol/Behavior-Tree)
 
 ## 游戏原型
 ### 旋转关卡解密
