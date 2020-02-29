@@ -106,9 +106,38 @@
     * 视频内非常清晰的演示了在关卡设计时一些有用的技巧。
   * [Empires in Ruins - Designing new battles](https://www.indiedb.com/games/empires-in-ruins/news/empires-in-ruins-designing-new-battles)
     * 这是一篇开发日志，文中介绍了策略类游戏的关卡设计流程。
+    
+### 关卡设计候选
   * [Level Design and Shaping a Cogmind Experience](https://www.indiedb.com/games/cogmind/news/level-design-and-shaping-a-cogmind-experience)
     * 还没看，有点长，估计需要30分钟
-
+  * [《铲子骑士》的“飞行机械”关卡中的垂直设计 (LevelHead - Shovel Knight)](https://indienova.com/indie-game-development/levelhead-shovel-knight/)
+  * [翻译：如何为平台游戏设计关卡？](https://indienova.com/indie-game-development/how-to-design-levels-for-a-platformer/)
+  * [使用“马里奥方法”设计游戏关卡](https://indienova.com/indie-game-development/how-to-design-levels-with-the-super-mario-world-method-in-chinese/)
+  * [【游戏制作工具箱】如何做出你的《超级马力欧创作家2》第一关？](https://indienova.com/indie-game-development/gmtk-how-to-make-your-first-super-mario-maker2-level/)
+  * [【Boss Keys】《银河战士 Prime 2：黑暗回音》的关卡设计](https://indienova.com/indie-game-development/world-design-of-metroid-prime-2/)
+  * [关卡设计分析 | 《超级肉肉哥》](https://indienova.com/indie-game-development/super-meat-boy-level-design/)
+  * [【Boss Keys】《银河战士/密特罗德Prime》的关卡设计](https://indienova.com/indie-game-development/the-world-design-of-metroid-prime/)
+  * [2018 年“最酷”的游戏关卡，有你喜欢的吗？](https://indienova.com/indie-game-development/my-2018-best-level-design/)
+  * [【游戏制作工具箱】《杀手2》如何设计迈阿密关卡“终点线”？](https://indienova.com/indie-game-development/gmtk-the-making-of-hitman2s-miami-level/)
+  * [如何把控一款 Platformer 的关卡节奏](https://indienova.com/indie-game-development/gmtk-the-making-of-hitman2s-miami-level/)
+  * [“反直觉”设计在游戏关卡中的运用](https://indienova.com/indie-game-development/anti-instinct-in-level-design/)
+  * [我所理解的关卡设计（上）](https://indienova.com/indie-game-development/my-understanding-of-level-design/)
+  * [【游戏制作工具箱】​《恶魔城 X：月下夜想曲》的关卡设计](https://indienova.com/indie-game-development/boss-key-the-world-design-castlevania-symphony-of-the-night/)
+  * [【游戏制作工具箱】《洛克人11：命运的齿轮》事半功倍的关卡设计](https://indienova.com/indie-game-development/how-megaman11s-levels-domorewithless/)
+  * [【GDC 翻译】从《蔚蓝》讲关卡设计](https://indienova.com/indie-game-development/level-design-workshop-designing-celeste/)
+  * [论如何正经摸鱼：从《欧呜欧(OWO)》看游戏关卡设计思路](https://indienova.com/indie-game-development/owo-level-design/)
+  * [多人游戏关卡设计视觉化指南（多图）](https://indienova.com/indie-game-development/the-visual-guide-for-multiplayer-level-design/)
+  * [【译】关卡设计：视图和远景](https://indienova.com/indie-game-development/level-design-view-and-vista/)
+  * [我的关卡设计流程](https://indienova.com/indie-game-development/my-level-design-workflow/)
+  * [用 CCST 方法论分析关卡设计：《荒野之息》篇](https://indienova.com/indie-game-development/using-ccst-to-analyse-level-design-of-the-legend-of-zelda-breath-of-the-wild/)
+  * [游戏设计之路（2）——系列关卡设计流程](https://indienova.com/indie-game-development/road-to-game-designer-2/)
+  * [使用“马里奥方法”设计游戏关卡：“一鼓作气”和“拦截”](https://indienova.com/indie-game-development/making-levels-with-the-super-mario-world-method-the-preservation-of-momentum-theme-and-the-intercepts-theme/)
+  * [游戏设计之路（1）——我的第一个关卡](https://indienova.com/indie-game-development/road-to-game-designer-1-my-first-level-design/)
+  * [推拉：引导玩家穿行于游戏环境之中的艺术](https://indienova.com/indie-game-development/push-pull-introduction/)
+  * [推拉：引导玩家穿行于游戏环境之中的艺术 #2 - 2](https://indienova.com/indie-game-development/push-pull-2-2/)
+  * [使用“马里奥方法”设计游戏关卡：理解技巧主题](https://indienova.com/indie-game-development/the-super-mario-world-method-understanding-skill-themes/)
+  * [使用“马里奥方法”设计游戏关卡：进化与增量](https://indienova.com/indie-game-development/the-super-mario-world-method-using-evolutions-and-expansions/)
+  * [平台动作关卡设计的十一个心得](https://indienova.com/indie-game-development/level-design-in-11-points/)
 
 ### 动作设计
   * [谈谈手机动作游戏（中）——操作与反馈、硬直之于动作游戏](https://cowlevel.net/article/1955454)
